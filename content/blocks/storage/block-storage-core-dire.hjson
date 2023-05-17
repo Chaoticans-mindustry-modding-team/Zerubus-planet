@@ -12,15 +12,10 @@
 
     research: {
     root: true
-    name: "Dire",
+    name: "Zerubus",
     planet: "zerubus"
     },
-
-    requirements: [
-        "zerubus-item-silver/300"
-    ]
-
-
+    
     hiddeOnPlanets: [
      "serpulo",
      "erekir"
