@@ -1,0 +1,24 @@
+{
+    type: "CoreBlock",
+    category: "effect",
+
+    size: 3,
+    scaledHealth: 470,
+    itemCapacity: 1500,
+    unitType: "gamma",
+    buildVisibility: "shown",
+
+    research: {
+        parent: "zerubus-item-silver"
+        requirements: [
+            "zerubus-item-silver/900",
+        ],
+        objectives: [
+            "zerubus-item-silver"
+        ]
+    },
+
+    requirements: [
+        "zerubus-item-silver/300"
+    ]
+}
