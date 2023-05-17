@@ -6,13 +6,13 @@
 
     research: {
         //Unlocked on: 1st sector
-        parent: "aeyama-block-turret-thrower",
+        parent: "zerubus-item-silver",
         requirements: [
-            "aeyama-item-wood-lumber/20"
+            "zerubus-item-silver/20"
         ]
     },
 
     requirements: [
-        "aeyama-item-wood-lumber/6"
+        "zerubus-item-silver/1"
     ]
 }
