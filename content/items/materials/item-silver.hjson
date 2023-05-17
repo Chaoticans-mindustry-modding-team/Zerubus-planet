@@ -10,7 +10,7 @@
     // healthScaling: 0.20, // 2hp per lumber needed to build
 
     research: {
-        parent: "blocks-storage-core-dire"
+        parent: "zerubus-block-storage-core-dire"
     },
 
     buildable: false,
