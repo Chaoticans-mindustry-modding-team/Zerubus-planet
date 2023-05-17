@@ -7,11 +7,13 @@
     itemCapacity: 1500,
     unitType: "gamma",
     buildVisibility: "shown",
+    
+    allwaysUnlocked: true,
 
     research: {
     root: true
-    name: Dire
-    planet:zerubus
+    name: "Dire",
+    planet: "zerubus"
     },
 
     requirements: [
