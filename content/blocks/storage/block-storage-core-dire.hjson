@@ -9,16 +9,18 @@
     buildVisibility: "shown",
 
     research: {
-        parent: "zerubus-item-silver"
-        requirements: [
-            "zerubus-item-silver/900",
-        ],
-        objectives: [
-            "zerubus-item-silver"
-        ]
+    root: true
+    name: Dire
+    planet:zerubus
     },
 
     requirements: [
         "zerubus-item-silver/300"
     ]
+
+
+    hiddeOnPlanets: [
+     "serpulo",
+     "erekir"
+     ]
 }
