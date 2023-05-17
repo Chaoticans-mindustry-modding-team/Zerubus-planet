@@ -1,0 +1,20 @@
+{
+    type: "Conveyor",
+    category: "distribution",
+
+    speed: 0.03,
+    displayedSpeed: 4.2,
+    scaledHealth: 8,
+
+    research: {
+        //Unlocked on: 1st sector
+        parent: "zerubus-item-silver",
+        requirements: [
+            "zerubus-item-silver/20"
+        ],
+    },
+
+    requirements: [
+        "zerubus-item-silver/1",
+    ]
+}
