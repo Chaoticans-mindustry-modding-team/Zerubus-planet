@@ -1,5 +1,5 @@
 {
-    type: "OreBlock",
+    type: "Ore",
     wall: "zerubus-wall-silver-ore",
     variants: 3
 }
