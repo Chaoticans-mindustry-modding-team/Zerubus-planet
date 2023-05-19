@@ -3,16 +3,16 @@
 	"size": 2,
 	"tier": 1,
 	"rotateSpeed": 4,
-	"drillTime": 1,
+	"drillTime": 0.10
 	"liquidBoostIntensity": 3,
-	"drawRim": true,
+	"drawRim": false,
 	"warmupSpeed": 0.0478,
 	"updateEffectChance": 0.05,
 	"hasLiquids": true,
 	"liquidCapacity": 25,
 	"expanded": true,
 	"consumes": {
-		"power": 0,
+		
 		"liquid": {
 			"liquid": "water",
 			"amount": 0.31,
