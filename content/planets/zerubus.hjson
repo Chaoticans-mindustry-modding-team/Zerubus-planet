@@ -1,6 +1,7 @@
 {
     generator: "PlanetGenerator",
     parent: "sun",
+    localizedName: "Zerubus",
     iconColor: ff0000,
     orbitRadius: 24,
     hasAtmosphere: true,
