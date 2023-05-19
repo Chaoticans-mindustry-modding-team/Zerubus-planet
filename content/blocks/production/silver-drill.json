@@ -11,7 +11,7 @@
 	"liquidCapacity": 0,
 	"expanded": true,		
 		
-	},
+	
 	"requirements": [
 		{ "item": "silver", "amount": 20 },
 		{ "item": "indium", "amount": 10 },
@@ -22,4 +22,4 @@
 	],
 	"category": "production",
 	"research": "core-dire"
-
+}
