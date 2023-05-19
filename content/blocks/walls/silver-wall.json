@@ -1,0 +1,23 @@
+{    
+    "type": "Wall",
+    "health": 400,
+    "size": 1,
+    "requirements": [
+     "silver/6"
+    ],
+    "category": "defense",
+    "research": "silver-wall"
+}
+    
+   
+
+   
+
+ 
+
+    
+
+    
+   
+
+   
