@@ -2,7 +2,7 @@
     "hardness": 5,
     "cost": 7,
     "radioactivity": 2,
-    "color": "73FFAEFF",
+    "color": "A0A0ACFF",
     "research": {
     "parent": "core-dire",    
     
