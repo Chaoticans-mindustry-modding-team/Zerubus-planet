@@ -1,5 +1,6 @@
 {    
     "type": "Wall",
+    "name": "Silver wall",
     "health": 400,
     "size": 1,
     "requirements": [
