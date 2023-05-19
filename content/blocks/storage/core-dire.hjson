@@ -1,7 +1,7 @@
 {
     type: "CoreBlock",
     category: "effect",
-    name: Dire,
+    name: Core: Dire,
     size: 3,
     scaledHealth: 470,
     itemCapacity: 1500,
