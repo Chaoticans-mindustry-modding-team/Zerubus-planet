@@ -34,15 +34,15 @@
     "mirror": true,
     "progress": "warmup"
          },
-         {
-         "type": "FlarePart",
-          "color2": "FFFFFF",
-          "color1": "A9D8FFFF",
-          "y": 0,
-          "followRotation": true,
-          "stroke": 3,
-          "radius": 6
-         },
+         
+         
+          
+          
+         
+          
+          
+          
+         
         {
          "type": "hoverPart",
          "color": "660088FF",
