@@ -4,7 +4,7 @@
 	"tier": 1,
 	"rotateSpeed": 4,
 	"drillTime": 0.10
-	"liquidBoostIntensity": 1,
+	"liquidBoostIntensity": 2,
 	"drawRim": false,
 	"warmupSpeed": 0.0478,
 	"updateEffectChance": 0.05,
