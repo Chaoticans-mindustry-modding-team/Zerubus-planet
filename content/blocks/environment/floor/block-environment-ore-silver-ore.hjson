@@ -1,5 +1,0 @@
-{
-    type: "OreBlock",
-    wall: "zerubus-wall-silver-ore",
-    variants: 3
-}
