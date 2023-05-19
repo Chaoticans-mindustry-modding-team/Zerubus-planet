@@ -1,5 +1,6 @@
 {
 "type": "StackConveyor",
+"name": "Silver duct",
 "loadEffect": {
 "type": "ParticleEffect",
 "line": true,
