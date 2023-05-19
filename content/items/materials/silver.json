@@ -2,7 +2,6 @@
     "hardness": 5,
     "cost": 7,
     "radioactivity": 2,
-    "tier": 1,
     "color": "73FFAEFF",
     "research": {
     "parent": "core-dire",    
