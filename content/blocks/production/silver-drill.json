@@ -3,7 +3,7 @@
 	"size": 2,
 	"tier": 1,
 	"rotateSpeed": 2,
-	"drillTime": 1,
+	"drillTime": 3,
 	"drawRim": false,
 	"warmupSpeed": 0.0478,
 	"updateEffectChance": 0.05,
