@@ -2,26 +2,19 @@
 	"type": "Drill",
 	"size": 2,
 	"tier": 1,
-	"rotateSpeed": 4,
+	"rotateSpeed": 2,
 	"drillTime": 0.001,
-	"liquidBoostIntensity": 1.5,
 	"drawRim": false,
 	"warmupSpeed": 0.0478,
 	"updateEffectChance": 0.05,
-	"hasLiquids": true,
-	"liquidCapacity": 25,
-	"expanded": true,
-	"consumes": {
+	"hasLiquids": false,
+	"liquidCapacity": 0,
+	"expanded": true,		
 		
-		"liquid": {
-			"liquid": "water",
-			"amount": 0.31,
-			"booster": true,
-			"optional": true
-		}
 	},
 	"requirements": [
 		{ "item": "silver", "amount": 20 },
+		{ "item": "indium", "amount": 10 },
 		
 		
 		
