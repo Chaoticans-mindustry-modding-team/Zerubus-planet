@@ -1,0 +1,10 @@
+{
+    "hardness": 1,
+    "cost": 7,
+    "radioactivity": 0,
+    "color": "000080FF",
+    "research": {
+    "parent": "silver",    
+    
+  }
+}
