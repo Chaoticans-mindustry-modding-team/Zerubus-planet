@@ -73,7 +73,7 @@
 	],
 	"weapons": [
 	    {
-  "name": "laser-cannon",
+  "name": "deimos-laser-cannon",
 "mirror": false,
     "top": true,
     "rotate": true,
@@ -88,8 +88,8 @@
     "length": 130,
     "width": 20,
     "damage": 16,
-    "lightColor": "A9D8FFFF",
-    "lightningColor": "66B1FFFF",
+    "lightColor": "9900bbFF",
+    "lightningColor": "bb00ddFF",
     "status": "electrified",
     "statusDuration": 100,
    "buildingDamageMultiplier": 0.80,
@@ -106,7 +106,7 @@
     "colorFrom": "000099FF",
     "colorTo": "000055FF"
     },
-    "colors": ["66B1FFAA", "A9D8FFFF", "FFFFFF"],
+    "colors": ["660088AA", "660088FF", "FF88FF"],
     "sideAngle": 90,
     "sideLength": 1,
     "sideWidth": 1
