@@ -1,22 +1,22 @@
 {
-        "type": "hover",
+        "type": "ship",
 	"speed": 2.9,
 	"outlineColor": "414452FF",
 	"hitSize": 18,
 	"health": 560,
         "mineSpeed": 6,
         "buildSpeed": 4.2,
-        "mineTier": 3,
-        "itemCapacity": 40,
+        "mineTier": 1,
+        "itemCapacity": 50,
 	"armor": 3,
-        "canBoost": true,
-        "hovering": true,
+        "canBoost": false,
+        "hovering": false,
         "shadowElevation": 0.1,
         "useEngineElevation": false,
 	"faceTarget": false,
 	"targetAir": true,
-        "engineSize": 2,
-        "engineOffset": 7,
+        "engineSize": 0,
+        "engineOffset": 0,
         "trailColor": "66B1FFFF",
         "trailLength": 6,
         "engineColor": "66B1FFFF",
@@ -67,13 +67,13 @@
          }
         ],
 	"immunities": [
-        "neutron-overcharge",
-	"overclock",
-	"freezing"
+        "freezing",
+	
+	
 	],
 	"weapons": [
 	    {
-  "name": "shooting star",
+  "name": "laser-cannon",
 "mirror": false,
     "top": true,
     "rotate": true,
@@ -90,21 +90,21 @@
     "damage": 16,
     "lightColor": "A9D8FFFF",
     "lightningColor": "66B1FFFF",
-    "status": "freezing",
+    "status": "electrified",
     "statusDuration": 100,
    "buildingDamageMultiplier": 0.80,
     "hitEffect": {
     "type": "ParticleEffect",
     "line": true,
-    "particles": 15,
+    "particles": 20,
     "lifetime": 20,
     "offset": 50,
-    "length": 55,
+    "length": 50,
     "cone": -360,
     "lenFrom": 5,
     "lenTo": 0,
-    "colorFrom": "A9D8FFFF",
-    "colorTo": "66B1FFFF"
+    "colorFrom": "000099FF",
+    "colorTo": "000055FF"
     },
     "colors": ["66B1FFAA", "A9D8FFFF", "FFFFFF"],
     "sideAngle": 90,
@@ -126,10 +126,10 @@
             },
             {
             "type": "mindustry.entities.abilities.ForceFieldAbility",
-            "radius": 30,
+            "radius": 5,
             "regen": 3,
-            "max": 250,
-            "cooldown": 40
+            "max": 50,
+            "cooldown": 20
             }
         ]
 }
