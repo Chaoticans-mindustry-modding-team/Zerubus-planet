@@ -8,7 +8,7 @@
     unitType: "gamma",
     buildVisibility: "shown",
     
-    allwaysUnlocked: true,
+   
 
     research: {
     root: true
