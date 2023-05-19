@@ -1,7 +1,6 @@
 {
     generator: "PlanetGenerator",
     parent: "sun",
-    name: "Zerubus"
     iconColor: ff0000,
     orbitRadius: 24,
     hasAtmosphere: true,
@@ -48,7 +47,7 @@
         seed: 262436,
         divisions: 5,       //3         3
         radius: 0.9,        //0.12      0.8
-        planet: "Zerubus",   //2         Zerubus
+        planet: "Zerubus",   //2         zerubus
         color1: "ff0000",     //ff2222    ff4444
         color2: "ff00ff",     //dd00dd    bb00bb
         colorOct: 4, //i 1
