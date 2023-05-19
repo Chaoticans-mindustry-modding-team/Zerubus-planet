@@ -6,7 +6,9 @@
      "silver/6"
     ],
     "category": "defense",
-    "research": "silver-wall"
+    "research": "silver-wall",
+    "parent": "core-dire"
+    
 }
     
    
