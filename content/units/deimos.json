@@ -28,8 +28,8 @@
     "layer": -1,
     "mirror": true,
     "blending": "additive",
-    "color": "4583FF60",
-    "colorTo": "4583FF60",
+    "color": "8800bb60",
+    "colorTo": "bb00dd60",
     "outline": false,            
     "mirror": true,
     "progress": "warmup"
