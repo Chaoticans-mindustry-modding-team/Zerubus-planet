@@ -11,7 +11,7 @@
     drawOrbit: true,
     accessible: true,
     alwaysUnlocked: true,
-    defaultCore: "zerubus-block-storage-core-dire",
+    defaultCore: "core-dire",
     sectorSeed: 5948,
     startSector: 0,
     sectorSize: 1,
