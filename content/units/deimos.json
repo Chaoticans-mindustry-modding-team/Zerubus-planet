@@ -90,7 +90,7 @@
     "damage": 30,
     "lightColor": "9900bbFF",
     "lightningColor": "bb00ddFF",
-    "status": "electricuted",
+    "status": "shocked",
     "statusDuration": 100,
    "buildingDamageMultiplier": 0.80,
     "hitEffect": {
