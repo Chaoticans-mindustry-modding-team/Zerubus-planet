@@ -1,0 +1,137 @@
+{
+	"type": "itemTurret",
+	"health": 1000,
+	"name": "Scale",
+    "shake": 2,
+	"size": 2,
+	"reload": 0.25,
+	"range": 30,
+    "shootY": 1,
+    "shootSound": "shoot",
+	 "recoil": 0.2,
+	 "coolantMultiplier": 0.84,
+     "shootCone": 40,
+     "inaccuracy": 2,
+     "shoot": {
+     "type": "ShootAlternate",
+     "spread": 0,
+     "barrels": 5,
+     "shots": 5,
+         },
+    "drawer": {
+    "type": "drawTurret",
+    "basePrefix": "none",
+    },
+    "shootWarmupSpeed": 0.08,
+	"rotateSpeed": 1,
+    "ammoTypes": {
+            "indium": {
+            "status": "fast",
+			"statusDuration": "100",
+            "speed": 10,
+            "trailColor": "000080FF",
+            "trailParam": 4,
+            "trailLength": 13,
+            "trailWidth": 4,
+            "trailEffect": "none",
+            "shrinkY": 0,
+            "shrinkX": 0,
+            "height": 26,
+            "width": 15,
+            "damage": 10,
+            "lifetime": 25,
+            "knockback": 4.8,
+            "hitSize": 2,
+  "shootEffect": {
+            "type": "ParticleEffect",
+             "particles": 5,
+             "length": 70,
+            "lifetime": 46,
+        "cone": 20,
+        "colorFrom": "000060FF",
+        "colorTo": "000080FF",
+        "sizeFrom": 5,
+        "sizeTo": 0
+            },
+            "hitEffect": "thoriumShoot",
+		   "frontColor": "000060FF",
+		   "backColor": "000080FF"
+            },
+            "silver": {
+	    "pierceArmor": true,
+            "speed": 4,
+            "trailColor": "8EE1FFFF",
+            "trailParam": 4,
+            "trailLength": 13,
+            "trailWidth": 2.6,
+            "trailEffect": "none",
+            "shrinkY": 0,
+            "shrinkX": 0,
+            "height": 24,
+            "width": 15,
+            "damage": 12,
+            "lifetime": 25,
+            "hitSize": 2,
+            "shootEffect": "shootSmokeDisperse",
+            "hitEffect": {
+            "type": "multiEffect",
+            "effects": [
+             {
+            "type": "ParticleEffect",
+            "line": true,
+            "particles": 9,
+            "lifetime": 30,
+            "length": 85,
+            "baseLength": 20,
+            "cone": -30,
+            "lenFrom": 7,
+            "lenTo": 0,
+            "colorFrom": "555555FF",
+            "colorTo": "666666FF"
+            },
+           {
+            "type": "ParticleEffect",
+            "particles": 9,
+            "length": 70,
+            "lifetime": 46,
+            "cone": 60,
+            "colorFrom": "664488FF",
+            "colorTo": "8844AAFF",
+            "sizeFrom": 5,
+            "sizeTo": 0
+            }
+            ]
+            },
+		   "frontColor": "fffffFF",
+		   "backColor": "8EE1FFFF"
+            },
+            
+            
+	    
+            
+           
+            
+           
+           
+           
+           
+           
+         
+          
+          
+       
+
+        
+
+           
+            
+           
+     
+	"requirements": [
+        "silver/30",
+        "indium/20",
+      
+	],
+	"category": "turret",
+	"research": "Scale"
+}
