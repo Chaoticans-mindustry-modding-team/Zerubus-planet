@@ -24,15 +24,15 @@
 "colorFrom": "A9D8FFFF",
 "colorTo": "66B1FFFF"
 },
-"health": 300,
+"health": 20,
 "speed": 0.10,
-"itemCapacity": 100,
+"itemCapacity": 15,
     "requirements": [
-        "surge-alloy/3",
-        "silicon/10",
-        "omega-blue/5"
+        "silver/3",
+        
+        
     ],
-"research": "team-genesux",
+"research": "zerubus",
 "category": "distribution"
 
 }
