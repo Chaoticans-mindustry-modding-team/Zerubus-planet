@@ -7,7 +7,7 @@
 	"reload": 0.25,
 	"range": 30,
     "shootY": 1,
-    "shootSound": "shoot",
+    "shootSound": "Shoot",
 	 "recoil": 0.2,
 	 "coolantMultiplier": 0.84,
      "shootCone": 40,
