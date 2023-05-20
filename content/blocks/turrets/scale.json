@@ -5,7 +5,7 @@
     "shake": 2,
 	"size": 2,
 	"reload": 40,
-	"range": 30,
+	"range": 100,
     "shootY": 1,
     "shootSound": "Shoot",
 	 "recoil": 1,
@@ -39,7 +39,7 @@
             "height": 26,
             "width": 15,
             "damage": 10,
-            "lifetime": 25,
+            "lifetime": 20,
             "knockback": 4.8,
             "hitSize": 2,
   "shootEffect": {
@@ -59,7 +59,7 @@
             },
             "silver": {
 	    "pierceArmor": true,
-            "speed": 4,
+            "speed": 6,
             "trailColor": "8EE1FFFF",
             "trailParam": 4,
             "trailLength": 13,
