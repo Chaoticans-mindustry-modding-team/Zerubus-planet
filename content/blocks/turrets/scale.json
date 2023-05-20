@@ -155,7 +155,9 @@
       
 	],
 	"category": "turret",
-	"research": "Scale"
+	"research": {
+        "parent": "core-dire",
+	}
 
     }
 
