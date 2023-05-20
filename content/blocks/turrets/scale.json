@@ -4,7 +4,7 @@
 	"name": "Scale",
     "shake": 2,
 	"size": 2,
-	"reload": 0.25,
+	"reload": 2,
 	"range": 30,
     "shootY": 1,
     "shootSound": "Shoot",
