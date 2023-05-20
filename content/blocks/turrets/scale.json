@@ -54,6 +54,14 @@
          "mirror": false,
          "progress": "recoil"
          }
+         {
+         "type": "RegionPart",
+         "suffix": "-mid",
+         "moveY": -3,
+          "moveRot": 0,
+         "mirror": false,
+         "progress": "recoil"
+         }
          ]
 },
     "shootWarmupSpeed": 0.08,
