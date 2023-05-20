@@ -22,5 +22,8 @@
 	
 	],
 	"category": "production",
-	"research": "core-dire"
+	"research": {
+        "parent": "core-dire",
+        "allwaysUnlocked": true,
+	}
 }
