@@ -24,7 +24,7 @@
          "parts": [
    {
          "type": "RegionPart",
-         "suffix": "-side",
+         "suffix": "-side-l",
          "moveY": -1,
           "moveRot": 0,
          "mirror": false,
@@ -32,7 +32,7 @@
          }
          {
          "type": "RegionPart",
-         "suffix": "-blade",
+         "suffix": "-blade-l",
          "moveY": -2,
           "moveRot": 0,
          "mirror": false,
@@ -40,18 +40,18 @@
          }
 	{
 	         "type": "RegionPart",
-         "suffix": "-side",
+         "suffix": "-side-r",
          "moveY": -1,
           "moveRot": 0,
-         "mirror": true,
+         "mirror": false,
          "progress": "recoil"
          }
          {
          "type": "RegionPart",
-         "suffix": "-blade",
+         "suffix": "-blade-r",
          "moveY": -2,
           "moveRot": 0,
-         "mirror": true,
+         "mirror": false,
          "progress": "recoil"
          }
          ]
