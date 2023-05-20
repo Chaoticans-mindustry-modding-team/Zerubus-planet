@@ -20,7 +20,7 @@
          },
     "drawer": {
     "type": "drawTurret",
-    "basePrefix": "none",
+    "basePrefix": "zerubus-",
     },
     "shootWarmupSpeed": 0.08,
 	"rotateSpeed": 5,
