@@ -21,7 +21,24 @@
     "drawer": {
     "type": "drawTurret",
     "basePrefix": "zerubus-",
-    },
+         "parts": [
+   {
+         "type": "RegionPart",
+         "suffix": "-side",
+         "moveY": -1,
+          "moveRot": 0,
+         "mirror": true,
+         "progress": "recoil"
+         }
+		    {
+         "type": "RegionPart",
+         "suffix": "-blade",
+         "moveY": -2,
+          "moveRot": 0,
+         "mirror": true,
+         "progress": "recoil"
+         }
+         ]
     "shootWarmupSpeed": 0.08,
 	"rotateSpeed": 5,
     "ammoTypes": {
