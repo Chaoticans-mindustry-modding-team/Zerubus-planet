@@ -30,7 +30,7 @@
          "mirror": true,
          "progress": "recoil"
          }
-		    {
+         {
          "type": "RegionPart",
          "suffix": "-blade",
          "moveY": -2,
