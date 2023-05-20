@@ -14,7 +14,7 @@
      "inaccuracy": 2,
      "shoot": {
      "type": "ShootAlternate",
-     "spread": 0,
+     "spread": 5,
      "barrels": 5,
      "shots": 5,
          },
@@ -23,7 +23,7 @@
     "basePrefix": "none",
     },
     "shootWarmupSpeed": 0.08,
-	"rotateSpeed": 1,
+	"rotateSpeed": 0.3,
     "ammoTypes": {
             "indium": {
             "status": "none",
