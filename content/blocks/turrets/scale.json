@@ -23,7 +23,7 @@
     "basePrefix": "none",
     },
     "shootWarmupSpeed": 0.08,
-	"rotateSpeed": 0.3,
+	"rotateSpeed": 5,
     "ammoTypes": {
             "indium": {
             "status": "none",
