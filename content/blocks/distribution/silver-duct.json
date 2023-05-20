@@ -33,7 +33,9 @@
         
         
     ],
-"research": "zerubus",
-"category": "distribution"
+"research": {
+"parent": "core-dire",
+}
+
 
 }
