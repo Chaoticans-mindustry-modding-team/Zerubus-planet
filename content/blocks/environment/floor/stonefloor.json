@@ -1,0 +1,11 @@
+{
+"type": "Floor",
+"speedMultiplier": 0,
+"variants": 4,
+"statusDuration": 0,
+"isLiquid": "false",
+"albedo": 0,
+"status": "none",
+
+
+}
