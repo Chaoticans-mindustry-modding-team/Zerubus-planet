@@ -1,7 +1,7 @@
 {    
     "type": "Wall",
     "name": "Silver Wall",
-    "health": 400,
+    "health": 600,
     "size": 1,
     "requirements": [
      "silver/6"
