@@ -2,6 +2,7 @@
 	"type": "Drill",
 	"size": 2,
 	"tier": 1,
+	"name": "Silver drill",
 	"rotateSpeed": 2,
 	"drillTime": 120,
 	"drawRim": false,
