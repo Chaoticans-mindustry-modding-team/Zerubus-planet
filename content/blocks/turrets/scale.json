@@ -39,7 +39,7 @@
             "height": 26,
             "width": 15,
             "damage": 10,
-            "lifetime": 15,
+            "lifetime": 10,
             "knockback": 4.8,
             "hitSize": 2,
   "shootEffect": {
@@ -70,7 +70,7 @@
             "height": 24,
             "width": 15,
             "damage": 12,
-            "lifetime": 20,
+            "lifetime": 15,
             "hitSize": 2,
             "shootEffect": "shootSmokeDisperse",
             "hitEffect": {
