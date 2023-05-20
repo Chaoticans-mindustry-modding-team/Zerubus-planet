@@ -39,6 +39,7 @@
          "progress": "recoil"
          }
          ]
+},
     "shootWarmupSpeed": 0.08,
 	"rotateSpeed": 5,
     "ammoTypes": {
