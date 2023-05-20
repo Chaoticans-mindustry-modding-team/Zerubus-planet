@@ -99,9 +99,8 @@
             "colorTo": "8844AAFF",
             "sizeFrom": 5,
             "sizeTo": 0
-            }
+           }
             ]
-	    }
             },
 		   "frontColor": "fffffFF",
 		   "backColor": "8EE1FFFF"
@@ -109,7 +108,7 @@
            
 	"requirements": [
         "silver/30",
-        "indium/20",
+        "indium/20"
       
 	],
 	"category": "turret",
