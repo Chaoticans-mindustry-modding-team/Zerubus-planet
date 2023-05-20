@@ -57,7 +57,7 @@
          {
          "type": "RegionPart",
          "suffix": "-mid",
-         "moveY": -3,
+         "moveY": -2,
           "moveRot": 0,
          "mirror": false,
          "progress": "recoil"
