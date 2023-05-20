@@ -27,6 +27,22 @@
          "suffix": "-side",
          "moveY": -1,
           "moveRot": 0,
+         "mirror": false,
+         "progress": "recoil"
+         }
+         {
+         "type": "RegionPart",
+         "suffix": "-blade",
+         "moveY": -2,
+          "moveRot": 0,
+         "mirror": false,
+         "progress": "recoil"
+         }
+	{
+	         "type": "RegionPart",
+         "suffix": "-side",
+         "moveY": -1,
+          "moveRot": 0,
          "mirror": true,
          "progress": "recoil"
          }
