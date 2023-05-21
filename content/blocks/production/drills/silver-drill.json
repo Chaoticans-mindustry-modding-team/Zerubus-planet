@@ -4,7 +4,7 @@
 	"tier": 1,
 	"name": "Silver drill",
 	"rotateSpeed": 2,
-	"drillTime": 340,
+	"drillTime": 600,
 	"drawRim": false,
 	"warmupSpeed": 0.0478,
 	"updateEffectChance": 0.05,
