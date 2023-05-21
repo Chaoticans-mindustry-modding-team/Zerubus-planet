@@ -1,7 +1,6 @@
 {
 "type": "Floor",
 "name": "Dirt",
-"speedMultiplier": 0,
 "variants": 4,
 "isLiquid": "false",
 }
