@@ -1,5 +1,6 @@
 {
 "type": "Floor",
+"name": "Dirt",
 "speedMultiplier": 0,
 "variants": 4,
 "statusDuration": 0,
