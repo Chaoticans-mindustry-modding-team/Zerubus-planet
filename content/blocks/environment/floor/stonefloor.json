@@ -1,0 +1,6 @@
+{
+"type": "Floor",
+"name": "Stone",
+"variants": 4,
+"isLiquid": "false",
+}
