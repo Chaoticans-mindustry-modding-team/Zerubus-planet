@@ -1,8 +1,0 @@
-{
-"localizedName": "Caesium",
-"description": "Extremely radioactive liquid",
-"isLiquid": true,
-"cache": "water",
-"effect": "burning",
-"color": "CCAA77"
-}
