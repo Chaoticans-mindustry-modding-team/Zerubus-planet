@@ -48,23 +48,23 @@
          "type": "hoverPart",
          "color": "660088FF",
          "layerOffset": -1,
-         "x": 5,
+         "x": 4.4,
          "phase": 90,
          "stroke": 2,
          "radius": 6,
          "mirror": true,
-         "y": -4
+         "y": -3.6
          },
          {
          "type": "hoverPart",
          "color": "660088FF",
          "layerOffset": -1,
-         "x": 5,
+         "x": 4.4,
          "phase": 90,
          "stroke": 2,
          "radius": 6,
          "mirror": true,
-         "y": 4
+         "y": 3.6
          }
         ],
 	"immunities": [
