@@ -1,7 +1,7 @@
 {
         "type": "flying",
 	"speed": 2.9,
-	"outlineColor": "414452FF",
+	"outlineColor": "41445500",
 	"hitSize": 18,
 	"health": 430,
 	"canDrown": "false",
@@ -93,7 +93,7 @@
     "lightningColor": "bb00ddFF",
     "status": "shocked",
     "statusDuration": 100,
-   "buildingDamageMultiplier": 0.80,
+   "buildingDamageMultiplier": 0.40,
     "hitEffect": {
     "type": "ParticleEffect",
     "line": true,
