@@ -1,5 +1,5 @@
 {
-        "type": "hover",
+        "type": "flying",
 	"speed": 2.9,
 	"outlineColor": "41445500",
 	"hitSize": 18,
@@ -11,7 +11,7 @@
         "itemCapacity": 50,
 	"armor": 3,
         "canBoost": false,
-        "hovering": true,
+        "hovering": false,
         "shadowElevation": 0.1,
         "useEngineElevation": false,
 	"faceTarget": false,
