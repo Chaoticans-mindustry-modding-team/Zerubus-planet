@@ -1,5 +1,5 @@
 {
-        "type": "ground",
+        "type": "hover",
 	"speed": 2.9,
 	"outlineColor": "41445500",
 	"hitSize": 18,
