@@ -13,7 +13,8 @@
     research: {
     root: true
     name: "Zerubus",
-    planet: "zerubus"
+    planet: "zerubus",
+    unlocked: true,
     },
     
     hiddeOnPlanets: [
