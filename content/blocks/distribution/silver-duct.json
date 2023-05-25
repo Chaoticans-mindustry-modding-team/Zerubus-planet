@@ -35,6 +35,7 @@
     ],
 "research": {
 "parent": "core-dire",
+"unlocked": true,
 }
 
 
