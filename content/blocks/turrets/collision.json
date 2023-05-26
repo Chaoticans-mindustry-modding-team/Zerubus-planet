@@ -65,6 +65,7 @@
             "trailWidth": 4,
             "trailEffect": "none",
             "shrinkY": 0,
+	    "peirce": 0,
             "shrinkX": 0,
             "height": 50,
             "width": 30,
