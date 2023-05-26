@@ -15,7 +15,7 @@
     defaultCore: "core-dire",
     sectorSeed: 5948,
     startSector: 0,
-    sectorSize: 1,
+    sectorSize: 0.1,
     clearSectorOnLose: true,
     allowSectorInvasion: false,
     radius: 3,
