@@ -2,10 +2,10 @@
 "localizedName": "Strike zone",
 "description": "The enemy base here is not prepaired for an attack making it an oppertune place for an attack. destroy the base and claim the sector"
 "planet": "zerubus",
+"alwaysUnlocked": true,
 "sector": 0,
 "difficulty": 1,
 "research": {
 "parent": "core-dire",
-"allwaysUnlocked":true,
 }
 }
