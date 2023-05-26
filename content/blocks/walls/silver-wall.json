@@ -3,6 +3,7 @@
     "name": "Silver Wall",
     "health": 600,
     "size": 1,
+    "alwaysUnlocked": true,
     "requirements": [
      "silver/6"
     ],
