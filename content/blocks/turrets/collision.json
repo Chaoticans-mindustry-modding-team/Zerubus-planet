@@ -6,7 +6,7 @@
     "shake": 2,
 	"size": 2,
 	"reload": 800,
-	"range": 300,
+	"range": 400,
     "shootY": 1,
     "shootSound": "shootAlt",
 	 "recoil": 2,
@@ -69,7 +69,7 @@
             "height": 50,
             "width": 30,
             "damage": 100,
-            "lifetime": 20,
+            "lifetime": 15,
             "knockback": 4.8,
             "hitSize": 2,
   "shootEffect": {
