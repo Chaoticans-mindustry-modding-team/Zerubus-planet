@@ -6,7 +6,7 @@
     "shake": 2,
 	"size": 2,
 	"reload": 800,
-	"range": 400,
+	"range": 450,
     "shootY": 1,
     "shootSound": "shootAlt",
 	 "recoil": 2,
