@@ -15,10 +15,10 @@
     defaultCore: "core-dire",
     sectorSeed: 5948,
     startSector: 0,
-    sectorSize: 0.1,
+    sectorSize: 2,
     clearSectorOnLose: true,
     allowSectorInvasion: false,
-    radius: 6,
+    radius: 3,
     hiddenItems: [
         "copper",
         
