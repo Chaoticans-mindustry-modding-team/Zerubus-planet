@@ -1,0 +1,103 @@
+{
+	"type": "itemTurret",
+	"health": 1000,
+	"name": "Collision",
+	"alwaysUnlocked": false,
+    "shake": 2,
+	"size": 2,
+	"reload": 800,
+	"range": 300,
+    "shootY": 1,
+    "shootSound": "shootAlt",
+	 "recoil": 2,
+	 "coolantMultiplier": 0.84,
+     "shootCone": 40,
+     "inaccuracy": 0,
+
+     "shoot": {
+     "type": "ShootAlternate",
+     "spread": 0,
+     "barrels": 1,
+     "shots": 1,
+         },
+    "drawer": {
+    "type": "drawTurret",
+    "basePrefix": "zerubus-",
+         "parts": [
+
+         
+         
+         
+         
+          
+         
+         
+         
+	{
+	         "type": "RegionPart",
+         "suffix": "collision-gun-",
+         "moveY": -1,
+          "moveRot": 0,
+         "mirror": false,
+         "recoil": 1,
+         }
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         ]
+},
+    "shootWarmupSpeed": 0.08,
+	"rotateSpeed": 5,
+    "ammoTypes": {
+            "indium": {
+            "status": "none",
+			"statusDuration": "100",
+            "speed": 30,
+            "trailColor": "000080FF",
+            "trailParam": 4,
+            "trailLength": 30,
+            "trailWidth": 4,
+            "trailEffect": "none",
+            "shrinkY": 0,
+            "shrinkX": 0,
+            "height": 50,
+            "width": 30,
+            "damage": 100,
+            "lifetime": 50,
+            "knockback": 4.8,
+            "hitSize": 2,
+  "shootEffect": {
+            "type": "ParticleEffect",
+             "particles": 10,
+             "length": 70,
+            "lifetime": 46,
+        "cone": 20,
+        "colorFrom": "000060FF",
+        "colorTo": "000080FF",
+        "sizeFrom": 5,
+        "sizeTo": 0
+            },
+            "hitEffect": "thoriumShoot",
+		   "frontColor": "000060FF",
+		   "backColor": "000080FF"
+            },
+           
+		   "frontColor": "fffffFF",
+		   "backColor": "8EE1FFFF"
+            },
+    }         
+	"requirements": [
+        "silver/40,
+        "indium/50,
+	],
+	"category": "turret",
+	"research": {
+        "parent": "scale",
+	}
+    }
