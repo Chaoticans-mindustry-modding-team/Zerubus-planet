@@ -3,6 +3,7 @@
 	"size": 2,
 	"tier": 1,
 	"name": "Silver drill",
+	"alwaysUnlocked": true,
 	"rotateSpeed": 2,
 	"drillTime": 600,
 	"drawRim": false,
