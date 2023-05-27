@@ -35,7 +35,7 @@
          
 	{
 	         "type": "RegionPart",
-         "suffix": "collision-gun-",
+         "suffix": "-barrel",
          "moveY": -1,
           "moveRot": 0,
          "mirror": false,
