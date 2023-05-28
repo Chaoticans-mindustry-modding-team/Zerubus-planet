@@ -58,7 +58,7 @@
     "barrels": 2,
     "spread": 1,
     "bullet": {
-    "type": "LaserBulletType",
+    "type": "LightningBulletType",
     "length": 100,
     "width": 10,
     "damage": 30,
