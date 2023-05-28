@@ -53,13 +53,13 @@
     "y": 0,
    "rotateSpeed": 3,
     "shootY": 0,
-    "reload": 58,
+    "reload": 20,
     "shootSound": "laser"
     
    
     "bullet": {
     "type": "LightningBulletType",
-    "length": 100,
+    "length": 40,
     "width": 10,
     "damage": 30,
     "lightColor": "9900bbFF",
@@ -95,13 +95,13 @@
     "y": 0,
    "rotateSpeed": 3,
     "shootY": 0,
-    "reload": 58,
+    "reload": 20,
     "shootSound": "laser"
     
    
     "bullet": {
     "type": "LightningBulletType",
-    "length": 100,
+    "length": 40,
     "width": 10,
     "damage": 30,
     "lightColor": "9900bbFF",
