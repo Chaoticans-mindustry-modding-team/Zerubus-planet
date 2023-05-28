@@ -1,20 +1,21 @@
 {
-        "type": "flying",
-	"speed": 2.9,
+        "type": "ground",
+	"speed": 1,
 	"outlineColor": "41445500",
-	"hitSize": 18,
-	"health": 430,
-	"canDrown": "false",
-        "mineSpeed": 6,
-        "buildSpeed": 4.2,
-        "mineTier": 1,
+	"hitSize": 10,
+	"health": 700,
+	"canDrown": "true",
+        "mineSpeed": 0,
+	"canBuild": false,
+        "buildSpeed": 0,
+        "mineTier": 0,
         "itemCapacity": 50,
 	"armor": 3,
-        "canBoost": false,
-        "hovering": true,
+        "canBoost": true,
+        "hovering": false,
         "shadowElevation": 0.1,
         "useEngineElevation": false,
-	"faceTarget": false,
+	"faceTarget": true,
 	"targetAir": true,
         "engineSize": 0,
         "engineOffset": 0,
@@ -23,18 +24,8 @@
         "engineColor": "66B1FFFF",
 	"rotateSpeed": 20,
     "parts": [
-    {
-    "type": "RegionPart",
-    "suffix": "-glow",
-    "layer": -1,
-    "mirror": true,
-    "blending": "additive",
-    "color": "8800bb60",
-    "colorTo": "bb00dd60",
-    "outline": false,            
-    "mirror": true,
-    "progress": "warmup"
-         },
+  
+         
          
          
           
@@ -44,28 +35,8 @@
           
           
          
-        {
-         "type": "hoverPart",
-         "color": "660088FF",
-         "layerOffset": -1,
-         "x": 4.4,
-         "phase": 90,
-         "stroke": 2,
-         "radius": 6,
-         "mirror": true,
-         "y": -3.6
-         },
-         {
-         "type": "hoverPart",
-         "color": "660088FF",
-         "layerOffset": -1,
-         "x": 4.4,
-         "phase": 90,
-         "stroke": 2,
-         "radius": 6,
-         "mirror": true,
-         "y": 3.6
-         }
+    
+   
         ],
 	"immunities": [
         "freezing",
@@ -74,8 +45,8 @@
 	],
 	"weapons": [
 	    {
-  "name": "deimos-laser-cannon",
-"mirror": false,
+  "name": "spark-cannons",
+"mirror": true,
     "top": true,
     "rotate": true,
     "x": 0,
@@ -83,11 +54,13 @@
    "rotateSpeed": 3,
     "shootY": 0,
     "reload": 58,
-    "shootSound": "laser",
+    "shootSound": "laser"
+    "barrels": 2,
+    "spread": 1,
     "bullet": {
     "type": "LaserBulletType",
-    "length": 130,
-    "width": 20,
+    "length": 100,
+    "width": 10,
     "damage": 30,
     "lightColor": "9900bbFF",
     "lightningColor": "bb00ddFF",
@@ -125,12 +98,6 @@
       "reload" : 5,
       "duration" : 5
             },
-            {
-            "type": "mindustry.entities.abilities.ForceFieldAbility",
-            "radius": 20,
-            "regen": 0.1,
-            "max": 25,
-            "cooldown": 20
-            }
+    
         ]
 }
