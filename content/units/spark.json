@@ -45,18 +45,18 @@
 	],
 	"weapons": [
 	    {
-  "name": "spark-cannons",
-"mirror": true,
+  "name": "spark-cannon1",
+"mirror": false,
     "top": true,
     "rotate": true,
-    "x": 0,
+    "x": -1,
     "y": 0,
    "rotateSpeed": 3,
     "shootY": 0,
     "reload": 58,
     "shootSound": "laser"
-    "barrels": 2,
-    "spread": 1,
+    
+   
     "bullet": {
     "type": "LightningBulletType",
     "length": 100,
@@ -86,6 +86,34 @@
     "sideWidth": 1
 	}
 	}
+ {
+  "name": "spark-cannon2",
+"mirror": false,
+    "top": true,
+    "rotate": true,
+    "x": 1,
+    "y": 0,
+   "rotateSpeed": 3,
+    "shootY": 0,
+    "reload": 58,
+    "shootSound": "laser"
+    
+   
+    "bullet": {
+    "type": "LightningBulletType",
+    "length": 100,
+    "width": 10,
+    "damage": 30,
+    "lightColor": "9900bbFF",
+    "lightningColor": "bb00ddFF",
+    "status": "shocked",
+    "statusDuration": 100,
+   "buildingDamageMultiplier": 0.40,
+    "hitEffect": {
+    "type": "ParticleEffect",
+    "line": true,
+    "particles": 20,
+    "lifetime": 20,
     ],
     "abilities": [
     {
