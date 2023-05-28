@@ -86,7 +86,7 @@
     "sideWidth": 1
 	}
 	}
- {
+      {
   "name": "spark-cannon2",
 "mirror": false,
     "top": true,
@@ -107,13 +107,27 @@
     "lightColor": "9900bbFF",
     "lightningColor": "bb00ddFF",
     "status": "shocked",
-    "statusDuration": 100,
+      "statusDuration": 100,
    "buildingDamageMultiplier": 0.40,
     "hitEffect": {
     "type": "ParticleEffect",
     "line": true,
     "particles": 20,
     "lifetime": 20,
+    "offset": 50,
+    "length": 50,
+    "cone": -360,
+    "lenFrom": 5,
+    "lenTo": 0,
+    "colorFrom": "000099FF",
+    "colorTo": "000055FF"
+    },
+    "colors": ["660088AA", "660088FF", "FF88FF"],
+    "sideAngle": 90,
+    "sideLength": 1,
+    "sideWidth": 1
+	}
+	}
     ],
     "abilities": [
     {
