@@ -21,6 +21,7 @@
          },
     "drawer": {
     "type": "drawTurret",
+    "top": true,
     "basePrefix": "zerubus-",
          "parts": [
    {
