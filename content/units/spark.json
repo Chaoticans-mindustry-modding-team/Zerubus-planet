@@ -59,7 +59,7 @@
    
     "bullet": {
     "type": "LightningBulletType",
-    "length": 20,
+    "length": 1,
     "width": 10,
     "damage": 30,
     "lightColor": "9900bbFF",
@@ -101,7 +101,7 @@
    
     "bullet": {
     "type": "LightningBulletType",
-    "length": 20,
+    "length": 1,
     "width": 10,
     "damage": 30,
     "lightColor": "9900bbFF",
