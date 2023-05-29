@@ -117,7 +117,7 @@
     "line": true,
     "particles": 20,
     "lifetime": 20,
-    "offset": 100,
+    "offset": 50,
     "length": 50,
     "cone": -360,
     "lenFrom": 5,
