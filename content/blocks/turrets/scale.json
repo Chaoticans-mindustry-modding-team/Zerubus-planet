@@ -31,7 +31,7 @@
 	 "layer": -1,
           "moveRot": 0,
          "mirror": false,
-	   "top": false,
+	   "under": true,
          "progress": "recoil"
          }
          {
