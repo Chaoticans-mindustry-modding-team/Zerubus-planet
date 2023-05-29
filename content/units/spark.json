@@ -24,7 +24,9 @@
         "engineColor": "66B1FFFF",
 	"rotateSpeed": 20,
     "parts": [
-  
+    
+    
+    
          
          
          
@@ -45,7 +47,7 @@
 	],
 	"weapons": [
 	    {
-  "name": "spark-cannon1",
+  "name": "spark-cannon-l",
 "mirror": false,
     "top": true,
     "rotate": true,
@@ -87,7 +89,7 @@
 	}
 	}
       {
-  "name": "spark-cannon2",
+  "name": "spark-cannon-r",
 "mirror": false,
     "top": true,
     "rotate": true,
