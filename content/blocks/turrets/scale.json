@@ -41,7 +41,7 @@
          "layer": -1,
           "moveRot": 0,
          "mirror": false,
-		 "top": false,
+		 "under": true,
          "progress": "recoil"
          }
 	{
@@ -51,7 +51,7 @@
          "layer": -1,
           "moveRot": 0,
          "mirror": false,
-	"top": false,
+	"under": true,
          "progress": "recoil"
          }
          {
@@ -61,7 +61,7 @@
          "layer": -1,
           "moveRot": 0,
          "mirror": false,
-		 "top": false,
+		 "under": true,
          "progress": "recoil"
          }
          {
@@ -70,7 +70,7 @@
          "moveY": -2,
 	 "layer": -1,
           "moveRot": 0,
-         "mirror": false,
+         "under": true,
 		 "top": false,
          "progress": "recoil"
          }
