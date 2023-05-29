@@ -1,6 +1,6 @@
 {
       
-	"speed": 0.1,
+	"speed": 0.5,
 	"outlineColor": "41445500",
 	"hitSize": 10,
 	"legs": true,
