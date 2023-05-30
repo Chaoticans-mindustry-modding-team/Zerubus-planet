@@ -49,7 +49,7 @@
 	"weapons": [
 	    {
   "name": "spark-cannon-l",
-"mirror": false,
+"mirror": true,
     "top": false,
     "rotate": false,
     "alternate": true,
