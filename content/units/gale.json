@@ -48,7 +48,8 @@
     "bullet": {
     "type": "BasicBulletType",
     "length": 1,
-    "width": 1,
+    "width": 4,
+    "speed": 10,
     "damage": 40,
     "lightColor": "9900bbFF",
     "lightningColor": "bb00ddFF",
@@ -76,16 +77,8 @@
 	}
     ],
     "abilities": [
-    {
-     "type": "mindustry.entities.abilities.StatusFieldAbility",
-      "effect": "none",
-      "parentizeEffects": true,
-      "effectY": 13,
-      "activeEffect": "none",
-      "range" : 70,
-      "reload" : 5,
-      "duration" : 5
-            },
+    
+            
             
         ]
 }
