@@ -24,8 +24,8 @@
         "trailColor": "66B1FFFF",
         "trailLength": 6,
         "engineColor": "66B1FFFF",
-	"rotateSpeed": 20,
-	"faceTarget": true,
+	"rotateSpeed": 5,
+	"faceTarget": false,
     "parts": [
  
     
@@ -139,7 +139,7 @@
     "lightningLength": 100,
     "length": 10,
     "width": 40,
-    "speed": 20,
+    "speed": 40,
     "damage": 100,
     "lightColor": "9900bbFF",
     "lightningColor": "bb00ddFF",
@@ -149,7 +149,7 @@
     "type": "ParticleEffect",
     "line": true,
     "particles": 20,
-    "lifetime": 50,
+    "lifetime": 60,
     "offset": 50,
     "length": 50,
     "cone": -360,
