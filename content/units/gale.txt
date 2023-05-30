@@ -1,15 +1,16 @@
 {
         "type": "flying",
-	"speed": 2.9,
+	"speed": 4,,
 	"outlineColor": "41445500",
 	"hitSize": 18,
-	"health": 430,
+	"health": 300,
 	"canDrown": "false",
         "mineSpeed": 6,
-        "buildSpeed": 4.2,
-        "mineTier": 1,
+        "buildSpeed": 0,
+	"canBuild": false,
+        "mineTier": 0,
         "itemCapacity": 50,
-	"armor": 3,
+	"armor": 0,
         "canBoost": false,
         "hovering": true,
         "shadowElevation": 0.1,
@@ -23,49 +24,9 @@
         "engineColor": "66B1FFFF",
 	"rotateSpeed": 20,
     "parts": [
-    {
-    "type": "RegionPart",
-    "suffix": "-glow",
-    "layer": -1,
-    "mirror": true,
-    "blending": "additive",
-    "color": "8800bb60",
-    "colorTo": "bb00dd60",
-    "outline": false,            
-    "mirror": true,
-    "progress": "warmup"
-         },
-         
-         
-          
-          
-         
-          
-          
-          
-         
-        {
-         "type": "hoverPart",
-         "color": "660088FF",
-         "layerOffset": -1,
-         "x": 4.4,
-         "phase": 90,
-         "stroke": 2,
-         "radius": 6,
-         "mirror": true,
-         "y": -3.6
-         },
-         {
-         "type": "hoverPart",
-         "color": "660088FF",
-         "layerOffset": -1,
-         "x": 4.4,
-         "phase": 90,
-         "stroke": 2,
-         "radius": 6,
-         "mirror": true,
-         "y": 3.6
-         }
+ 
+    
+    
         ],
 	"immunities": [
         "freezing",
@@ -74,26 +35,26 @@
 	],
 	"weapons": [
 	    {
-  "name": "deimos-laser-cannon",
+  "name": "gale-gun",
 "mirror": false,
     "top": true,
-    "rotate": true,
+    "rotate": false,
     "x": 0,
     "y": 0,
    "rotateSpeed": 3,
     "shootY": 0,
-    "reload": 58,
-    "shootSound": "laser",
+    "reload": 60,
+    "shootSound": "Shoot",
     "bullet": {
-    "type": "LaserBulletType",
-    "length": 130,
-    "width": 20,
-    "damage": 30,
+    "type": "BasicBulletType",
+    "length": 1,
+    "width": 1,
+    "damage": 40,
     "lightColor": "9900bbFF",
     "lightningColor": "bb00ddFF",
-    "status": "shocked",
-    "statusDuration": 100,
-   "buildingDamageMultiplier": 0.40,
+    
+    
+   "buildingDamageMultiplier": 1,
     "hitEffect": {
     "type": "ParticleEffect",
     "line": true,
@@ -125,12 +86,6 @@
       "reload" : 5,
       "duration" : 5
             },
-            {
-            "type": "mindustry.entities.abilities.ForceFieldAbility",
-            "radius": 20,
-            "regen": 0.1,
-            "max": 25,
-            "cooldown": 20
-            }
+            
         ]
 }
