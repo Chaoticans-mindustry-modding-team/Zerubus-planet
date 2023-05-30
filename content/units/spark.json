@@ -90,48 +90,7 @@
     "sideWidth": 1
 	}
 	}
-      {
-  "name": "spark-cannon-r",
-"mirror": false,
-    "top": false,
-    "rotate": false,
-    "x": 4.8,
-    "y": 0.3,
-   "rotateSpeed": 3,
-    "shootY": 0,
-    "reload": 20,
-    "shootSound": "laser"
-    
-   
-    "bullet": {
-    "type": "LightningBulletType",
-    "length": 1,
-    "width": 10,
-    "damage": 30,
-    "lightColor": "9900bbFF",
-    "lightningColor": "bb00ddFF",
-    "status": "shocked",
-      "statusDuration": 100,
-   "buildingDamageMultiplier": 0.40,
-    "hitEffect": {
-    "type": "ParticleEffect",
-    "line": true,
-    "particles": 20,
-    "lifetime": 20,
-    "offset": 50,
-    "length": 50,
-    "cone": -360,
-    "lenFrom": 5,
-    "lenTo": 0,
-    "colorFrom": "000099FF",
-    "colorTo": "000055FF"
-    },
-    "colors": ["660088AA", "660088FF", "FF88FF"],
-    "sideAngle": 90,
-    "sideLength": 1,
-    "sideWidth": 1
-	}
-	}
+      
     ],
     "abilities": [
     {
