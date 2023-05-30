@@ -1,6 +1,6 @@
 {
         "type": "flying",
-	"speed": 4,,
+	"speed": 4,
 	"outlineColor": "41445500",
 	"hitSize": 18,
 	"health": 300,
