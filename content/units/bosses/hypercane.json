@@ -47,7 +47,7 @@
     "y": 30,
    "rotateSpeed": 3,
     "shootY": 0,
-    "reload": 0.1,
+    "reload": 0.5,
     "shootSound": "Shoot",
     "bullet": {
     "type": "LightningBulletType",
@@ -89,7 +89,7 @@
     "y": -30,
    "rotateSpeed": 3,
     "shootY": 0,
-    "reload": 0.1,
+    "reload": 0.5,
     "shootSound": "Shoot",
     "bullet": {
     "type": "LightningBulletType",
