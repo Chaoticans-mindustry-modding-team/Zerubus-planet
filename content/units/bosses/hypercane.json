@@ -1,0 +1,85 @@
+{
+        "type": "flying",
+	"speed": 4,
+	"outlineColor": "41445500",
+	"hitSize": 18,
+	"health": 300,
+	"canDrown": "false",
+        "mineSpeed": 6,
+        "buildSpeed": 0,
+	"canBuild": false,
+        "mineTier": 0,
+        "itemCapacity": 50,
+	"armor": 0,
+        "canBoost": false,
+        "hovering": true,
+        "shadowElevation": 0.1,
+        "useEngineElevation": false,
+	"faceTarget": false,
+	"targetAir": true,
+        "engineSize": 0,
+        "engineOffset": 0,
+        "trailColor": "66B1FFFF",
+        "trailLength": 6,
+        "engineColor": "66B1FFFF",
+	"rotateSpeed": 20,
+	"faceTarget": true,
+    "parts": [
+ 
+    
+    
+        ],
+	"immunities": [
+        "freezing",
+	
+	
+	],
+	"weapons": [
+	    {
+  "name": "gale-gun",
+"mirror": false,
+    "top": true,
+    "rotate": false,
+    "x": 0,
+    "y": 1,
+   "rotateSpeed": 3,
+    "shootY": 0,
+    "reload": 30,
+    "shootSound": "Shoot",
+    "bullet": {
+    "type": "BasicBulletType",
+    "length": 1,
+    "width": 4,
+    "speed": 10,
+    "damage": 40,
+    "lightColor": "9900bbFF",
+    "lightningColor": "bb00ddFF",
+    
+    
+   "buildingDamageMultiplier": 1,
+    "hitEffect": {
+    "type": "ParticleEffect",
+    "line": true,
+    "particles": 20,
+    "lifetime": 20,
+    "offset": 50,
+    "length": 50,
+    "cone": -360,
+    "lenFrom": 5,
+    "lenTo": 0,
+    "colorFrom": "000099FF",
+    "colorTo": "000055FF"
+    },
+    "colors": ["660088AA", "660088FF", "FF88FF"],
+    "sideAngle": 90,
+    "sideLength": 1,
+    "sideWidth": 1
+	}
+	}
+    ],
+    "abilities": [
+    
+            
+            
+        ]
+}
