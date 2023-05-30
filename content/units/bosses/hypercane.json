@@ -2,7 +2,7 @@
         "type": "flying",
 	"speed": 4,
 	"outlineColor": "41445500",
-	"hitSize": 100,
+	"hitSize": 500,
 	"health": 300,
 	"size": 100,
 	"canDrown": "false",
