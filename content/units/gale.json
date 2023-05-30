@@ -40,10 +40,10 @@
     "top": true,
     "rotate": false,
     "x": 0,
-    "y": 0,
+    "y": 1,
    "rotateSpeed": 3,
     "shootY": 0,
-    "reload": 60,
+    "reload": 30,
     "shootSound": "Shoot",
     "bullet": {
     "type": "BasicBulletType",
