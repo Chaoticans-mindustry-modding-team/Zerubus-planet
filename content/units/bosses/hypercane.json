@@ -4,7 +4,7 @@
 	
 	"outlineColor": "41445500",
 	"hitSize": 300,
-	"health": 120000,
+	"health": 230000,
 	"size": 100,
 	"canDrown": "false",
         "mineSpeed": 6,
