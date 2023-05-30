@@ -1,0 +1,136 @@
+{
+        "type": "flying",
+	"speed": 2.9,
+	"outlineColor": "41445500",
+	"hitSize": 18,
+	"health": 430,
+	"canDrown": "false",
+        "mineSpeed": 6,
+        "buildSpeed": 4.2,
+        "mineTier": 1,
+        "itemCapacity": 50,
+	"armor": 3,
+        "canBoost": false,
+        "hovering": true,
+        "shadowElevation": 0.1,
+        "useEngineElevation": false,
+	"faceTarget": false,
+	"targetAir": true,
+        "engineSize": 0,
+        "engineOffset": 0,
+        "trailColor": "66B1FFFF",
+        "trailLength": 6,
+        "engineColor": "66B1FFFF",
+	"rotateSpeed": 20,
+    "parts": [
+    {
+    "type": "RegionPart",
+    "suffix": "-glow",
+    "layer": -1,
+    "mirror": true,
+    "blending": "additive",
+    "color": "8800bb60",
+    "colorTo": "bb00dd60",
+    "outline": false,            
+    "mirror": true,
+    "progress": "warmup"
+         },
+         
+         
+          
+          
+         
+          
+          
+          
+         
+        {
+         "type": "hoverPart",
+         "color": "660088FF",
+         "layerOffset": -1,
+         "x": 4.4,
+         "phase": 90,
+         "stroke": 2,
+         "radius": 6,
+         "mirror": true,
+         "y": -3.6
+         },
+         {
+         "type": "hoverPart",
+         "color": "660088FF",
+         "layerOffset": -1,
+         "x": 4.4,
+         "phase": 90,
+         "stroke": 2,
+         "radius": 6,
+         "mirror": true,
+         "y": 3.6
+         }
+        ],
+	"immunities": [
+        "freezing",
+	
+	
+	],
+	"weapons": [
+	    {
+  "name": "deimos-laser-cannon",
+"mirror": false,
+    "top": true,
+    "rotate": true,
+    "x": 0,
+    "y": 0,
+   "rotateSpeed": 3,
+    "shootY": 0,
+    "reload": 58,
+    "shootSound": "laser",
+    "bullet": {
+    "type": "LaserBulletType",
+    "length": 130,
+    "width": 20,
+    "damage": 30,
+    "lightColor": "9900bbFF",
+    "lightningColor": "bb00ddFF",
+    "status": "shocked",
+    "statusDuration": 100,
+   "buildingDamageMultiplier": 0.40,
+    "hitEffect": {
+    "type": "ParticleEffect",
+    "line": true,
+    "particles": 20,
+    "lifetime": 20,
+    "offset": 50,
+    "length": 50,
+    "cone": -360,
+    "lenFrom": 5,
+    "lenTo": 0,
+    "colorFrom": "000099FF",
+    "colorTo": "000055FF"
+    },
+    "colors": ["660088AA", "660088FF", "FF88FF"],
+    "sideAngle": 90,
+    "sideLength": 1,
+    "sideWidth": 1
+	}
+	}
+    ],
+    "abilities": [
+    {
+     "type": "mindustry.entities.abilities.StatusFieldAbility",
+      "effect": "none",
+      "parentizeEffects": true,
+      "effectY": 13,
+      "activeEffect": "none",
+      "range" : 70,
+      "reload" : 5,
+      "duration" : 5
+            },
+            {
+            "type": "mindustry.entities.abilities.ForceFieldAbility",
+            "radius": 20,
+            "regen": 0.1,
+            "max": 25,
+            "cooldown": 20
+            }
+        ]
+}
