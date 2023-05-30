@@ -3,7 +3,7 @@
 	"speed": 1,
 	
 	"outlineColor": "41445500",
-	"hitSize": 300,
+	"hitSize": 250,
 	"health": 230000,
 	"size": 100,
 	"canDrown": "false",
@@ -137,6 +137,7 @@
     "bullet": {
     "type": "LaserBulletType",
     "lightningLength": 100,
+    "peirce": 3,
     "length": 10,
     "width": 40,
     "speed": 40,
