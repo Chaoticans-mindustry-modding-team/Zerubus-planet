@@ -40,9 +40,9 @@
   "name": "hypercane-gun-1",
 "mirror": true,
     "top": true,
-    "rotate": false,
+    "rotate": true,
     "x": 100,
-    "y": 1,
+    "y": 30,
    "rotateSpeed": 3,
     "shootY": 0,
     "reload": 0.1,
@@ -55,8 +55,45 @@
     "damage": 100,
     "lightColor": "9900bbFF",
     "lightningColor": "bb00ddFF",
-    
-    
+   "buildingDamageMultiplier": 1,
+    "hitEffect": {
+    "type": "ParticleEffect",
+    "line": true,
+    "particles": 20,
+    "lifetime": 20,
+    "offset": 50,
+    "length": 50,
+    "cone": -360,
+    "lenFrom": 5,
+    "lenTo": 0,
+    "colorFrom": "000099FF",
+    "colorTo": "000055FF"
+    },
+    "colors": ["660088AA", "660088FF", "FF88FF"],
+    "sideAngle": 90,
+    "sideLength": 1,
+    "sideWidth": 1
+	}
+	}
+		 {
+  "name": "hypercane-gun-2,,
+"mirror": true,
+    "top": true,
+    "rotate": true,
+    "x": 100,
+    "y": -30,
+   "rotateSpeed": 3,
+    "shootY": 0,
+    "reload": 0.1,
+    "shootSound": "Shoot",
+    "bullet": {
+    "type": "BasicBulletType",
+    "length": 10,
+    "width": 40,
+    "speed": 20,
+    "damage": 100,
+    "lightColor": "9900bbFF",
+    "lightningColor": "bb00ddFF",
    "buildingDamageMultiplier": 1,
     "hitEffect": {
     "type": "ParticleEffect",
