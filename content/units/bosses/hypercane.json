@@ -126,7 +126,7 @@
 "mirror": true,
     "top": true,
     "rotate": true,
-    "shots": 2,
+    
     "alternate": true,
     "x": 30,
     "y": 100,
@@ -136,11 +136,11 @@
     "shootSound": "laser",
     "bullet": {
     "type": "LaserBulletType",
-    "lightningLength": 100,
+    
     "peirce": 3,
-    "length": 10,
-    "width": 40,
-    "speed": 40,
+    "length": 200,
+    "width": 50,
+    "speed": 0,
     "damage": 100,
     "lightColor": "9900bbFF",
     "lightningColor": "bb00ddFF",
