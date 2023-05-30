@@ -50,7 +50,7 @@
     "shootSound": "Shoot",
     "bullet": {
     "type": "LightningBulletType",
-    "length": 10,
+    "length": 100,
     "width": 40,
     "speed": 20,
     "damage": 100,
