@@ -23,6 +23,7 @@
         "trailLength": 6,
         "engineColor": "66B1FFFF",
 	"rotateSpeed": 20,
+	"faceTarget": true,
     "parts": [
  
     
