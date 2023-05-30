@@ -70,7 +70,7 @@
     "lightningColor": "bb00ddFF",
     "status": "shocked",
     "statusDuration": 100,
-   "buildingDamageMultiplier": 0.40,
+   "buildingDamageMultiplier": 1,
     "hitEffect": {
     "type": "ParticleEffect",
     "line": true,
