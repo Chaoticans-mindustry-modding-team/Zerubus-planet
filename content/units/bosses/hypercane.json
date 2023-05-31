@@ -48,7 +48,7 @@
     "x": 100,
     "y": 30,
    "rotateSpeed": 3,
-    "shootY": 2,
+    "shootY": -3,
     "reload": 1,
     "shootSound": "bolt",
     "bullet": {
@@ -90,7 +90,7 @@
     "x": 100,
     "y": -30,
    "rotateSpeed": 3,
-    "shootY": 2,
+    "shootY": -3,
     "reload": 1,
     "shootSound": "bolt",
     "bullet": {
