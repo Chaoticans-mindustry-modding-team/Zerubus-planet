@@ -254,7 +254,7 @@
     "abilities": [
     {    
     "type": "SuppressionFieldAbility",
-    "orbRadius": 200,
+    "orbRadius": 175,
     }
             
             
