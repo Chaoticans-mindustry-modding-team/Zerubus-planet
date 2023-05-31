@@ -255,6 +255,8 @@
     {    
     "type": "SuppressionFieldAbility",
     "orbRadius": 160,
+    "colorFrom": "9900bbFF",
+    "colorTo": "bb00ddFF",    
     }
             
             
