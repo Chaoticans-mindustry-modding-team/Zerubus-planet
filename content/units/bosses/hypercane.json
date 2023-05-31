@@ -292,6 +292,7 @@
 	}
     ],
     "abilities": [
+    "type": "SuppressionFieldAbility",
     
             
             
