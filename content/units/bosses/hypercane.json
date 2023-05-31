@@ -255,6 +255,7 @@
     {    
     "type": "SuppressionFieldAbility",
     "size": 100,
+    "width": 20,
     }
             
             
