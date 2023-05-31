@@ -292,8 +292,10 @@
 	}
     ],
     "abilities": [
+    {    
     "type": "SuppressionFieldAbility",
-    
+    "size": 5,
+    }
             
             
         ]
