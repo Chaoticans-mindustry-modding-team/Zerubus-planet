@@ -9,7 +9,7 @@
     buildVisibility: "shown",
     alwaysUnlocked: true,
     requirements: [
-    silver/2000
+    silver/1500
     indium/1200
     ],
    
