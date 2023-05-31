@@ -19,7 +19,6 @@
         "hovering": false,
         "shadowElevation": 0.1,
         "useEngineElevation": false,
-	
 	"targetAir": true,
         "engineSize": 0,
         "engineOffset": 0,
@@ -29,14 +28,9 @@
 	"rotateSpeed": 1,
 	"faceTarget": false,
     "parts": [
- 
-    
-    
         ],
 	"immunities": [
         "freezing",
-	
-	
 	],
 	"weapons": [
 	    {
@@ -249,9 +243,6 @@
     "sideWidth": 1
 	}
 	}
-
-	
-   
     ],
     "abilities": [
     {    
@@ -259,9 +250,7 @@
     "orbRadius": 160,
     "colorFrom": "9900bbFF",
     "colorTo": "bb00ddFF",    
-    }
-            
-            
+    }   
         ]
 "description": "The most powerful of all the storm units. If you wish to live place indium walls and an extremely powerful defence. It destroys everything it goes over as well as barages with lasers and lightning.",
 }
