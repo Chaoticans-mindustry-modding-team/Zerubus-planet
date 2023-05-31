@@ -5,6 +5,7 @@
 	"outlineColor": "41445500",
 	"hitSize": 250,
 	"health": 230000,
+	"dammage": 200,
 	"size": 100,
 	"canDrown": "false",
         "mineSpeed": 6,
