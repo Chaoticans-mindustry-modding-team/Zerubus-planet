@@ -1,5 +1,5 @@
 {
-        "type": "neoplasm",
+        "type": "crawl",
 	"speed": 1,
 	"rotate": true,
 	"outlineColor": "41445500",
