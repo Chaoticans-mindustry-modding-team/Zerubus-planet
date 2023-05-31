@@ -8,7 +8,10 @@
     unitType: "deimos",
     buildVisibility: "shown",
     alwaysUnlocked: true,
-    
+    requirements: [
+    silver/2000
+    indium/1200
+    ],
    
 
     research: {
