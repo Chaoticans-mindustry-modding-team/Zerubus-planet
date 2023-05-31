@@ -1,7 +1,6 @@
 {
 "type": "Junction",
 "name": "Silver duct",
-"alwaysUnlocked": true,
 "loadEffect": {
 "type": "ParticleEffect",
 "line": true,
