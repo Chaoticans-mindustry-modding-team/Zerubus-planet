@@ -1,5 +1,5 @@
 {
-        "type": "flying",
+        "type": "NeoplasmUnitType",
 	"speed": 1,
 	"rotate": true,
 	"outlineColor": "41445500",
