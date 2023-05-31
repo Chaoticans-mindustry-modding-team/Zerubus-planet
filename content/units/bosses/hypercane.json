@@ -1,5 +1,5 @@
 {
-        "type": "NeoplasmUnitType",
+        "type": "neoplasm",
 	"speed": 1,
 	"rotate": true,
 	"outlineColor": "41445500",
