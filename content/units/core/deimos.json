@@ -1,6 +1,7 @@
 {
         "type": "flying",
 	"speed": 2.9,
+	"name": "deimos",
 	"outlineColor": "41445500",
 	"hitSize": 18,
 	"health": 430,
