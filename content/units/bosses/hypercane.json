@@ -15,7 +15,7 @@
         "itemCapacity": 50,
 	"armor": 0,
         "canBoost": false,
-        "hovering": true,
+        "hovering": false,
         "shadowElevation": 0.1,
         "useEngineElevation": false,
 	
