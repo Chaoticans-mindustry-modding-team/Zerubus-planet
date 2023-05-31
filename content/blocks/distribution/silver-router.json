@@ -1,0 +1,43 @@
+{
+"type": "Router",
+"name": "Silver router",
+"alwaysUnlocked": false,
+"loadEffect": {
+"type": "ParticleEffect",
+"line": true,
+"particles": 7,
+"lifetime": 15,
+"length": 25,
+"cone": -360,
+"lenFrom": 5,
+"lenTo": 0,
+"colorFrom": "A9D8FFFF",
+"colorTo": "66B1FFFF"
+},
+"unloadEffect": {
+"type": "ParticleEffect",
+"line": true,
+"particles": 7,
+"lifetime": 15,
+"length": 25,
+"cone": -360,
+"lenFrom": 5,
+"lenTo": 0,
+"colorFrom": "A9D8FFFF",
+"colorTo": "66B1FFFF"
+},
+"health": 20,
+"speed": 0.10,
+"itemCapacity": 15,
+    "requirements": [
+        "silver/5,,
+        
+        
+    ],
+"research": {
+"parent": "silver duct",
+
+}
+
+
+}
