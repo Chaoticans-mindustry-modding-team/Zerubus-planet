@@ -2,6 +2,7 @@
         "type": "crawl",
 	"speed": 1,
 	"rotate": true,
+	"name": "The Hypercane",
 	"outlineColor": "41445500",
 	"hitSize": 250,
 	"health": 230000,
@@ -47,7 +48,7 @@
     "x": 100,
     "y": 30,
    "rotateSpeed": 3,
-    "shootY": 0,
+    "shootY": 2,
     "reload": 1,
     "shootSound": "bolt",
     "bullet": {
@@ -89,7 +90,7 @@
     "x": 100,
     "y": -30,
    "rotateSpeed": 3,
-    "shootY": 0,
+    "shootY": 2,
     "reload": 1,
     "shootSound": "bolt",
     "bullet": {
