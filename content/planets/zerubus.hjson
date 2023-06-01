@@ -4,7 +4,7 @@
     solarSystem: "noxiun-1",
     localizedName: "Zerubus",
     iconColor: ff0000,
-    orbitRadius: 200,
+    orbitRadius: 150,
     hasAtmosphere: true,
     updateLighting: false,
     atmosphereRadIn: 0.1,
