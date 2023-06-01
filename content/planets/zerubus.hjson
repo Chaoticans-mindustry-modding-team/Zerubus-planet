@@ -3,7 +3,7 @@
     parent: "noxiun-1",
     localizedName: "Zerubus",
     iconColor: ff0000,
-    orbitRadius: 24,
+    orbitRadius: 100,
     hasAtmosphere: true,
     updateLighting: false,
     atmosphereRadIn: 0.1,
