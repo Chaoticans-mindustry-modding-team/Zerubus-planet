@@ -14,7 +14,6 @@
     alwaysUnlocked: false,
     defaultCore: "core-dire",
     sectorSeed: 5948,
-    bloom: true,
     startSector: 0,
     sectorSize: 2,
     clearSectorOnLose: true,
