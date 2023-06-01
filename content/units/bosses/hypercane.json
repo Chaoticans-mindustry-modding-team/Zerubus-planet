@@ -248,7 +248,7 @@
 "mirror": true,
     "top": true,
     "rotate": true,
-    "type": "point-defence-mount",
+    "type": "Point-Defence-Weopon",
     "alternate": true,
     "x": 0,
     "y": 0,
