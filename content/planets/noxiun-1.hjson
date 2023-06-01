@@ -48,7 +48,7 @@
         type: "NoiseMesh",  //NoiseMesh NoiseMesh
         seed: 262436,
         divisions: 5,       //3         3
-        radius: 50,        //49.5      50.5
+        radius: 20,        //19.5      20.5
         planet: "Noxiun1",   //2         noxiun1
         color1: "ffff00",     //dddd00    bbbb00
         color2: "ffff22",     //dddd22    bbbb22
