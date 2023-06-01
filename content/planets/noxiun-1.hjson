@@ -4,6 +4,7 @@
     localizedName: "Noxiun 1",
     iconColor: ff0000,
     orbitRadius: 9000,
+    bloom: true,
     hasAtmosphere: false,
     updateLighting: false,
     atmosphereRadIn: 21.1,
