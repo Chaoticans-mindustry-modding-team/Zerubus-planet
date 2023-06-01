@@ -17,6 +17,7 @@
     sectorSeed: 5948,
     startSector: 0,
     sectorSize: 2,
+    color: "ffff00",
     clearSectorOnLose: true,
     allowSectorInvasion: false,
     hiddenItems: [
@@ -48,7 +49,7 @@
         seed: 262436,
         divisions: 5,       //3         3
         radius: 10,        //9.5      10.5
-        sun: "Noxiun1",   //2         noxiun1
+        planet: "Noxiun1",   //2         noxiun1
         color1: "ffff00",     //dddd00    bbbb00
         color2: "ffff22",     //dddd22    bbbb22
         colorOct: 4, //i 1
