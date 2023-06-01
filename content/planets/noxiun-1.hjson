@@ -55,7 +55,7 @@
         colorPersistence: 0.5, //f 0.5
         colorScale: 0.5, //f 1
         colorThreshold: 0.5, //f 0.5
-        octaves: 4,         //1         4
+        octaves: 2,         //1         2
         persistence: 1,     //0.01      1
         scale: 0.75,         //0.01      1.1
         mag: 1.2,             //1         1.4
