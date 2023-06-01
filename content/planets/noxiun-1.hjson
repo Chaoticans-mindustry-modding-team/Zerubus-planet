@@ -11,7 +11,7 @@
     atmosphereRadOut: 21.3,
     atmosphereColor: dddd0000,
     drawOrbit: false,
-    accessible: false,
+    accessible: true,
     alwaysUnlocked: false,
     defaultCore: "core-dire",
     sectorSeed: 5948,
