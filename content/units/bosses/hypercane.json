@@ -255,7 +255,7 @@
 	    {
 	    "type": "EnergyFieldAbility",
 	    "maxTargets": 100,
-	    "size": 100,
+	    "size": 200,
 	     "colorFrom": "9900bbFF",
              "colorTo": "bb00ddFF",  
 	    }
