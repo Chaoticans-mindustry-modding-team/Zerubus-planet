@@ -257,7 +257,7 @@
     "reload": 5,
     "shootSound": "laser",
     "bullet": {
-    "type": "LaserBulletType",
+    "type": "LightningBulletType",
     "length": 1400,
     "width": 50,
     "speed": 0,
