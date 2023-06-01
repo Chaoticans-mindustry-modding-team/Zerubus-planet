@@ -1,0 +1,63 @@
+{
+    generator: "PlanetGenerator",
+    parent: "sun",
+    localizedName: "Noxiun 1",
+    iconColor: ff0000,
+    orbitRadius: 24,
+    hasAtmosphere: false,
+    updateLighting: false,
+    atmosphereRadIn: 0.1,
+    atmosphereRadOut: 0.3,
+    atmosphereColor: ff0000,
+    drawOrbit: false,
+    accessible: false,
+    alwaysUnlocked: false,
+    defaultCore: "core-dire",
+    sectorSeed: 5948,
+    startSector: 0,
+    sectorSize: 2,
+    clearSectorOnLose: true,
+    allowSectorInvasion: false,
+    radius: 50,
+    hiddenItems: [
+        "copper",
+        
+        
+        
+        
+        "titanium",
+        "thorium",
+        
+        "plastanium",
+        "phase-fabric",
+        "surge-alloy",
+        "spore-pod",
+        
+        "blast-compound",
+        "pyratite",
+        "metaglass",
+        "beryllium",
+        "oxide",
+        "tungsten",
+        "carbide",
+        "fissile-matter",
+        "dormant-cyst"
+    ],
+    mesh: {
+        type: "NoiseMesh",  //NoiseMesh NoiseMesh
+        seed: 262436,
+        divisions: 5,       //3         3
+        radius: 50,        //49.5      50.5
+        planet: "Noxiun1",   //2         noxiun1
+        color1: "ffff00",     //dddd00    bbbb00
+        color2: "ffff22",     //dddd22    bbbb22
+        colorOct: 4, //i 1
+        colorPersistence: 0.5, //f 0.5
+        colorScale: 0.5, //f 1
+        colorThreshold: 0.5, //f 0.5
+        octaves: 4,         //1         4
+        persistence: 1,     //0.01      1
+        scale: 0.75,         //0.01      1.1
+        mag: 1.2,             //1         5
+    }
+}
