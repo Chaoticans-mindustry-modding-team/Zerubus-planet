@@ -258,7 +258,7 @@
     "shootSound": "laser",
     "bullet": {
     "type": "LightningBulletType",
-    "length": 1400,
+    "lightningLength": 1400,
     "width": 50,
     "speed": 0,
     "damage": 50,
