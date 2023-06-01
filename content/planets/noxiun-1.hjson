@@ -53,6 +53,7 @@
         color1: "ffff00",     //dddd00    bbbb00
         color2: "ffff22",     //dddd22    bbbb22
         colorOct: 4, //i 1
+        bloom: true,
         colorPersistence: 0.5, //f 0.5
         colorScale: 0.5, //f 1
         colorThreshold: 0.5, //f 0.5
