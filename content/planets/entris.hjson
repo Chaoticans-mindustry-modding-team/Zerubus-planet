@@ -50,7 +50,7 @@
         radius: 2.1,        //2.2      1.9
         planet: "Entris",   //2         entris
         color1: "ff5000",     //ff6000    ff4000
-        color2: "ff00ff",     //dd00dd    bb00bb
+        color2: "999999",     //aaaaaa    888888
         colorOct: 4, //i 1
         colorPersistence: 0.5, //f 0.5
         colorScale: 0.5, //f 1
