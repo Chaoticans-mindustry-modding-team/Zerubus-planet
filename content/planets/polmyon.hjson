@@ -2,8 +2,8 @@
     generator: "PlanetGenerator",
     parent: "zerubus",
     localizedName: "Polmyon",
-    iconColor: ff0000,
-    orbitRadius: 100,
+    iconColor: 00ff00,
+    orbitRadius: 10,
     hasAtmosphere: true,
     updateLighting: false,
     atmosphereRadIn: 0.1,
@@ -15,10 +15,10 @@
     defaultCore: "core-dire",
     sectorSeed: 5948,
     startSector: 0,
-    sectorSize: 2,
+    sectorSize: 1,
     clearSectorOnLose: true,
     allowSectorInvasion: false,
-    radius: 3,
+    radius: 1.2,
     hiddenItems: [
         "copper",
         
@@ -48,7 +48,7 @@
         seed: 262436,
         divisions: 5,       //3         3
         radius: 1,        //1.1     0.9
-        planet: "Polmyon",   //2         polmyon
+        planet: "Polmyon",   //1         polmyon
         color1: "ff0000",     //ff2222    ff4444
         color2: "ff00ff",     //dd00dd    bb00bb
         colorOct: 4, //i 1
