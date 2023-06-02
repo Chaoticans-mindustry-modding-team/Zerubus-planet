@@ -19,7 +19,7 @@
     "startSector": 0,
     "sectorSize": 1,
     "radius": 11,
-    "color": "ffff0000",
+    "color": "ff770000",
     "clearSectorOnLose": true,
     "allowSectorInvasion": false,
     "hiddenItems": [
