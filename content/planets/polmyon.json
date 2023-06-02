@@ -4,8 +4,6 @@
     "localizedName": "Polmyon",
     "iconColor": "00ff00",
     "orbitRadius": 40,
-    "bloom": true,
-    "BloomColor": "ffff00",
     "hasAtmosphere": true,
     "updateLighting": true,
     "atmosphereRadIn": 21.1,
@@ -48,7 +46,7 @@
     "mesh": {
         "type": "NoiseMesh",  //NoiseMesh NoiseMesh
         "seed": 262436,
-        "divisions": 5,       //3         3
+        "divisions": 1,       //3         3
         "radius": 0.9,         //9.9      10.1
         "planet": "Polmyon",   //2         noxiun1
         "Color1": "ffff00ff",     //dd7700ff    bbbb00ff
