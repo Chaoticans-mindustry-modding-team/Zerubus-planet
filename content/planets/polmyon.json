@@ -11,7 +11,7 @@
     "atmosphereColor": "dddd00ff",
     "drawOrbit": false,
     "accessible": true,
-    "alwaysUnlocked": true,
+    "alwaysUnlocked": false,
     "defaultCore": "core-dire",
     "sectorSeed": 5948,
     "startSector": 0,
