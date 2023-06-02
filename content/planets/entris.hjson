@@ -45,7 +45,7 @@
     ],
     mesh: {
         type: "NoiseMesh",  //NoiseMesh NoiseMesh
-        seed: 262478,
+        seed: 2624736,
         divisions: 5,       //3         3
         radius: 2.1,        //2.2      1.9
         planet: "Entris",   //2         entris
