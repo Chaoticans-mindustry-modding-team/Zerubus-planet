@@ -3,7 +3,7 @@
     "parent": "noxiun-1",
     "localizedName": "Noxiun 2",
     "iconColor": "ffff00",
-    "orbitRadius": 30,
+    "orbitRadius": 40,
     "bloom": true,
     "BloomColor": "ffff00",
     "hasAtmosphere": true,
