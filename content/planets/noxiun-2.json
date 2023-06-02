@@ -52,7 +52,7 @@
         "divisions": 5,       //3         3
         "radius": 10,         //9.9      10.1
         "planet": "Noxiun2",   //2         noxiun1
-        "color1": "ffff00ff",     //dd7700ff    bbbb00ff
+        "SunColor1": "ffff00ff",     //dd7700ff    bbbb00ff
         "color2": "ffbb00ff",     //dddd22ff    bbbb22ff
         "color3": "dd7700ff",
         "color4": "dddd22ff",
