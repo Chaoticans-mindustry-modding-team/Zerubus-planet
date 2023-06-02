@@ -17,7 +17,7 @@
     "sectorSeed": 5948,
     "startSector": 0,
     "sectorSize": 2,
-    "color": "ffff00",
+    "color": "ffff0000",
     "clearSectorOnLose": true,
     "allowSectorInvasion": false,
     "hiddenItems": [
