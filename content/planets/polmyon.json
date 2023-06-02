@@ -2,7 +2,7 @@
     "generator": "PlanetGenerator",
     "parent": "zerubus",
     "localizedName": "Polmyon",
-    "iconColor": "ffff00",
+    "iconColor": "00ff00",
     "orbitRadius": 40,
     "bloom": true,
     "BloomColor": "ffff00",
@@ -45,7 +45,7 @@
         "fissile-matter",
         "dormant-cyst"
     ],
-    "SunMesh": {
+    "mesh": {
         "type": "NoiseMesh",  //NoiseMesh NoiseMesh
         "seed": 262436,
         "divisions": 5,       //3         3
