@@ -10,7 +10,7 @@
     "updateLighting": true,
     "atmosphereRadIn": 21.1,
     "atmosphereRadOut": 21.3,
-    "atmosphereColor": "dddd00",
+    "atmosphereColor": "dddd00ff",
     "drawOrbit": false,
     "accessible": true,
     "alwaysUnlocked": true,
