@@ -3,7 +3,7 @@
     "parent": "sun",
     "localizedName": "Noxiun 1",
     "iconColor": "ffff00",
-    "orbitRadius": 9000,
+    "orbitRadius": 1000,
     "bloom": true,
     "BloomColor": "ffff00",
     "hasAtmosphere": true,
