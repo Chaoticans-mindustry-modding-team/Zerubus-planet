@@ -44,7 +44,7 @@
         "fissile-matter",
         "dormant-cyst"
     ],
-    "mesh": {
+    "SunMesh": {
         "type": "NoiseMesh",  //NoiseMesh NoiseMesh
         "seed": 262436,
         "divisions": 5,       //3         3
