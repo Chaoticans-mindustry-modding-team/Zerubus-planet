@@ -7,7 +7,7 @@
     "bloom": true,
     "BloomColor": "ffff00",
     "hasAtmosphere": false,
-    "updateLighting": false,
+    "updateLighting": true,
     "atmosphereRadIn": 21.1,
     "atmosphereRadOut": 21.3,
     "atmosphereColor": "dddd0000",
