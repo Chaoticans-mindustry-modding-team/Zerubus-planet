@@ -5,6 +5,7 @@
     "iconColor": "ffff00",
     "orbitRadius": 9000,
     "bloom": true,
+    "bloomColor": "ffff00",
     "hasAtmosphere": false,
     "updateLighting": false,
     "atmosphereRadIn": 21.1,
