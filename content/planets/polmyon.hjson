@@ -47,8 +47,8 @@
         type: "NoiseMesh",  //NoiseMesh NoiseMesh
         seed: 262436,
         divisions: 5,       //3         3
-        radius: 1,        //1.1     0.9
-        planet: "Polmyon",   //1         polmyon
+        radius: 2,        //2       2
+        planet: "Polmyon",   //2         polmyon
         color1: "ff0000",     //ff2222    ff4444
         color2: "ff00ff",     //dd00dd    bb00bb
         colorOct: 4, //i 1
