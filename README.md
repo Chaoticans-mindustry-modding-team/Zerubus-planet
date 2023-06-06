@@ -1,2 +1,2 @@
 # Zerubus
-adds a planet for the game mindustry
+a mindustry mod that adds a planet
