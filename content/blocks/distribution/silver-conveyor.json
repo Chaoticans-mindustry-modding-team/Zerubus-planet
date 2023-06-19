@@ -27,7 +27,7 @@
 "colorTo": "66B1FFFF"
 },
 "health": 20,
-"speed": 0.01,
+"speed": 0.10,
 "itemCapacity": 15,
     "requirements": [
         "silver/3",
