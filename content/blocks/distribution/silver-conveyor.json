@@ -1,5 +1,5 @@
 {
-"type": "Conveyor",
+"type": "StackConveyor",
 "name": "Silver duct",
 "alwaysUnlocked": true,
 "loadEffect": {
@@ -27,8 +27,8 @@
 "colorTo": "66B1FFFF"
 },
 "health": 20,
-"speed": 1,
-"itemCapacity": 1,
+"speed": 0.1,
+"itemCapacity": 15,
     "requirements": [
         "silver/3",
         
