@@ -84,7 +84,6 @@
    "rotateSpeed": 3,
     "shootY": 0,
     "reload": 58,
-    "buildingDamageMultiplier": 0.2,
     "shootSound": "laser",
     "bullet": {
     "type": "LaserBulletType",
@@ -95,7 +94,7 @@
     "lightningColor": "bb00ddFF",
     "status": "shocked",
     "statusDuration": 100,
-   "buildingDamageMultiplier": 0.40,
+   "buildingDamageMultiplier": 0.20,
     "hitEffect": {
     "type": "ParticleEffect",
     "line": true,
