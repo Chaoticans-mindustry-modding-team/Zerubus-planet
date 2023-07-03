@@ -19,9 +19,9 @@
 	"targetAir": true,
         "engineSize": 2.5,
         "engineOffset": 4.5,
-        "trailColor": "66B1FFFF",
+        "trailColor": "BB00DDFF",
         "trailLength": 6,
-        "engineColor": "BB00DDFF",
+        "engineColor": "CC00EEFF",
 	"rotateSpeed": 20,
 	"faceTarget": true,
     "parts": [
