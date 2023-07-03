@@ -84,6 +84,7 @@
    "rotateSpeed": 3,
     "shootY": 0,
     "reload": 58,
+    "buildingDamageMultiplier": 0.2,
     "shootSound": "laser",
     "bullet": {
     "type": "LaserBulletType",
