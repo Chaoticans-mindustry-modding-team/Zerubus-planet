@@ -51,6 +51,7 @@
     "type": "BasicBulletType",
     "length": 1,
     "width": 4,
+    "lifetime": 5,
     "speed": 10,
     "damage": 40,
     "lightColor": "9900bbFF",
