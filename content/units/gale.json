@@ -17,7 +17,7 @@
         "useEngineElevation": false,
 	"faceTarget": false,
 	"targetAir": true,
-        "engineSize": 0,
+        "engineSize": 2,
         "engineOffset": 0,
         "trailColor": "66B1FFFF",
         "trailLength": 6,
