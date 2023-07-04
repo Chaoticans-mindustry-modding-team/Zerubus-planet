@@ -3,7 +3,7 @@
   "health": 700,
   "size": 3,
   "name": "Silicate Forge",
-  "researchCostMultiplier": 0.5,
+  "researchCostMultiplier": 2,
   "craftTime": 200,
   "craftEffect": {
     "type": "MultiEffect",
@@ -67,5 +67,5 @@
     "parent": "silver drill"
   }
   "outputItem": "silicon/6",
-  "outputLiquid": "ozone/6",
+  "outputLiquid": "ozone/0.2",
 }
