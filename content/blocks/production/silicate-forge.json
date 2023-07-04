@@ -4,7 +4,7 @@
   "size": 3,
   "name": "Silicate Forge",
   "researchCostMultiplier": 2,
-  "craftTime": 200,
+  "craftTime": 30,
   "craftEffect": {
     "type": "MultiEffect",
     "effects": [
@@ -51,7 +51,7 @@
   },
   "updateEffect": "none",
   "consumes": {
-    "power": 10,
+    "power": 0.5,
     "items": [
       "silicate/6",
       "coal/6",
