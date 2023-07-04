@@ -4,36 +4,11 @@
   "size": 3,
   "name": "Silicate Forge",
   "researchCostMultiplier": 2,
-  "craftTime": 30,
+  "craftTime": 100,
   "craftEffect": {
     "type": "MultiEffect",
     "effects": [
-      {
-        "type": "ParticleEffect",
-        "particles": 4,
-        "length": 15,
-        "lifetime": 15,
-        "interp": "circleOut",
-        "sizeInterp": "pow5In",
-        "lightColor": "66B1FFFF",
-        "colorFrom": "787878",
-        "colorTo": "66B1FFFF",
-        "sizeFrom": 4.5,
-        "sizeTo": 0
-      },
-      {
-        "type": "ParticleEffect",
-        "particles": 3,
-        "length": 20,
-        "lifetime": 20,
-        "interp": "circleOut",
-        "sizeInterp": "pow5In",
-        "lightColor": "66B1FFFF",
-        "colorFrom": "787878",
-        "colorTo": "66B1FFFF",
-        "sizeFrom": 3.5,
-        "sizeTo": 0
-      },
+   
       {
         "type": "ParticleEffect",
         "particles": 2,
