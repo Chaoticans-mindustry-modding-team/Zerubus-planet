@@ -1,7 +1,7 @@
 {
 "localizedName": "Oxygen",
 "description": "O2",
-"isGas": true,
+"gas": true,
 "cache": "ozone",
 "color": "00aa99aa",
 "research": {
