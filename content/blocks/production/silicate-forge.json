@@ -11,7 +11,7 @@
    
       {
         "type": "ParticleEffect",
-        "particles": 2,
+        "particles": 5,
         "length": 25,
         "lifetime": 30,
         "interp": "circleOut",
