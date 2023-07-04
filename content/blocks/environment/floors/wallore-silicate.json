@@ -1,7 +1,7 @@
 {
 "type": "OreBlock",
 "varients": 3,
-"itemDrop": "silver",
+"itemDrop": "silicate",
 "wallOre": true,
 
 
