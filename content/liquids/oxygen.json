@@ -2,7 +2,8 @@
 "localizedName": "Oxygen",
 "description": "O2",
 "isGas": true,
-"color": "00aa66aa"
+"cache": "ozone",
+"color": "00aa99aa",
 "research": {
 "parent": "silicate",
 }
