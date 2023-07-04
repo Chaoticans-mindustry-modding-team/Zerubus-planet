@@ -16,9 +16,9 @@
         "lifetime": 30,
         "interp": "circleOut",
         "sizeInterp": "pow5In",
-        "lightColor": "66B1FFFF",
-        "colorFrom": "787878",
-        "colorTo": "66B1FFFF",
+        "lightColor": "00aa99FF",
+        "colorFrom": "009988",
+        "colorTo": "00bbaaFF",
         "sizeFrom": 2,
         "sizeTo": 0
       }
