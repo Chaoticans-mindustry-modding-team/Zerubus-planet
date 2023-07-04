@@ -3,4 +3,7 @@
 "description": "O2",
 "isGas": true,
 "color": "00aa66aa"
+"research": {
+"parent": "silicate",
+}
 }
