@@ -28,8 +28,8 @@
   "consumes": {
     "power": 0.5,
     "items": [
-      "silicate/6",
-      "coal/6",
+      "silicate/5",
+      "coal/5",
     ]
   },
   "requirements": [
@@ -41,6 +41,6 @@
   "research": {
     "parent": "silver drill"
   }
-  "outputItem": "silicon/6",
+  "outputItem": "silicon/5",
   "outputLiquid": "oxygen/0.2",
 }
