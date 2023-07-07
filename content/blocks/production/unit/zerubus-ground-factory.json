@@ -1,6 +1,6 @@
 {
   "type": "UnitFactory",
-  "researchCostMultiplier": 0.3,
+  "researchCostMultiplier": 0.1,
   "size": 3,
   "name": "Ground fabricator",
   "consumes": {
