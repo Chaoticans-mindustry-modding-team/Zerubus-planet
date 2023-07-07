@@ -46,7 +46,7 @@
     "shootY": 0,
     "reload": 30,
     "effect": "shocked",
-    "shootSound": "Shoot",
+    "shootSound": "shoot",
     "bullet": {
     "type": "BasicBulletType",
     "length": 1,
