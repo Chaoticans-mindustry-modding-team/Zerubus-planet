@@ -8,6 +8,8 @@
   "range": 5,
 	"drillTime": 600,
 	"drawRim": false,
+	"colorFrom": "9900BB",
+	"colorTo": "bb00dd",
 	"warmupSpeed": 0.0478,
 	"updateEffectChance": 0.05,
 	"hasLiquids": false,
