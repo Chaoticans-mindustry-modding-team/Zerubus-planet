@@ -1,0 +1,43 @@
+{
+  "type": "UnitFactory",
+  "researchCostMultiplier": 0.1,
+  "size": 3,
+  "name": "Air fabricator",
+  "consumes": {
+    "power": 5
+  },
+  "plans": [
+    {
+      "unit": "gale",
+      "requirements": [
+        {
+          "item": "silver",
+          "amount": 40
+        },
+        {
+          "item": "silicon",
+          "amount": 20
+        },
+      ],
+      "time": 1400
+    }
+  ],
+  "requirements": [
+    {
+      "item": "silicon",
+      "amount": 500
+    },
+    {
+      "item": "silver",
+      "amount": 200
+    },
+    {
+      "item": "indium",
+      "amount": 250
+    }
+  ],
+  "category": "units",
+  "research": {
+  "parent": "zerubus-ground-factory",
+  }
+}
