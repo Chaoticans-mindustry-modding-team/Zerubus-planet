@@ -60,7 +60,7 @@
    "rotateSpeed": 3,
     "shootY": 0,
     "reload": 20,
-    "shootSound": "laser"
+    "shootSound": "shoot"
     
    
     "bullet": {
