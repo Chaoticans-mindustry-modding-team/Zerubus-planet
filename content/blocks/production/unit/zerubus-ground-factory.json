@@ -8,7 +8,7 @@
   },
   "plans": [
     {
-      "unit": "mudslide",
+      "unit": "spark",
       "requirements": [
         {
           "item": "silver",
