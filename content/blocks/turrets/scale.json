@@ -124,7 +124,7 @@
             "shrinkX": 0,
             "height": 24,
             "width": 15,
-	    "pierce" 3,
+	    "pierce": 3,
             "damage": 36,
             "lifetime": 30,
             "hitSize": 2,
