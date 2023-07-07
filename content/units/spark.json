@@ -4,6 +4,7 @@
 	"outlineColor": "41445500",
 	"hitSize": 10,
 	"legs": true,
+	"name": "mudslide",
 	"health": 700,
 	"canDrown": "true",
         "mineSpeed": 0,
@@ -43,6 +44,7 @@
         ],
 	"immunities": [
         "freezing",
+        "quaked",
 	
 	
 	],
@@ -62,20 +64,20 @@
     
    
     "bullet": {
-    "type": "LightningBulletType",
-    "length": 1,
-    "width": 10,
+    "type": "BasicBulletType",
+    "length": 2,
+    "width": 1,
     "damage": 30,
     "lightColor": "9900bbFF",
     "lightningColor": "bb00ddFF",
-    "status": "shocked",
+    "status": "quaked",
     "statusDuration": 100,
-   "buildingDamageMultiplier": 1,
+   "buildingDamageMultiplier": 2,
     "hitEffect": {
     "type": "ParticleEffect",
     "line": true,
     "particles": 20,
-    "lifetime": 20,
+    "lifetime": 5,
     "offset": 50,
     "length": 50,
     "cone": -360,
