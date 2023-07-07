@@ -13,7 +13,7 @@
         "mineTier": 0,
         "itemCapacity": 50,
 	"armor": 3,
-        "canBoost": true,
+        "canBoost": false,
         "hovering": false,
         "shadowElevation": 0.1,
         "useEngineElevation": false,
