@@ -10,6 +10,7 @@
 	"drawRim": false,
 	"colorFrom": "9900BB",
 	"colorTo": "bb00dd",
+	"color": "9900BB",
 	"warmupSpeed": 0.0478,
 	"updateEffectChance": 0.05,
 	"hasLiquids": false,
