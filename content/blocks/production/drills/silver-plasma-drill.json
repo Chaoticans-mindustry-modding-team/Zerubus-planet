@@ -1,0 +1,31 @@
+{
+	"type": "BeamDrill",
+	"size": 2,
+	"tier": 1,
+	"name": "Silver Plasma Drill",
+	"alwaysUnlocked": false,
+	"rotateSpeed": 2,
+  "range": 5,
+	"drillTime": 600,
+	"drawRim": false,
+	"warmupSpeed": 0.0478,
+	"updateEffectChance": 0.05,
+	"hasLiquids": false,
+	"liquidCapacity": 0,
+	"expanded": true,		
+		
+	
+	"requirements": [
+		{ "item": "silver", "amount": 20 },
+		{ "item": "indium", "amount": 20 },
+		
+		
+		
+	
+	],
+	"category": "production",
+	"research": {
+        "parent": "silver-drill",
+        "allwaysUnlocked": false,
+	}
+}
