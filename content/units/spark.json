@@ -65,8 +65,9 @@
    
     "bullet": {
     "type": "BasicBulletType",
-    "length": 2,
-    "width": 1,
+    "length": 3,
+    "width": 6,
+    "speed": 5,
     "damage": 30,
     "lightColor": "9900bbFF",
     "lightningColor": "bb00ddFF",
