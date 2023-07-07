@@ -1,0 +1,43 @@
+{
+  "type": "UnitFactory",
+  "researchCostMultiplier": 0.3,
+  "size": 3,
+  "name": "Ground fabricator",
+  "consumes": {
+    "power": 5
+  },
+  "plans": [
+    {
+      "unit": "mudslide",
+      "requirements": [
+        {
+          "item": "silver",
+          "amount": 50
+        },
+        {
+          "item": "silicon",
+          "amount": 25
+        }
+      ],
+      "time": 100
+    }
+  ],
+  "requirements": [
+    {
+      "item": "silicon",
+      "amount": 580
+    },
+    {
+      "item": "silver",
+      "amount": 200
+    },
+    {
+      "item": "indium",
+      "amount": 250
+    }
+  ],
+  "category": "units",
+  "research": {
+  "parent": "core-dire",
+  }
+}
