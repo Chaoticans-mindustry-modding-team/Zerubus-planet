@@ -1,5 +1,5 @@
 {
-        "type": "naval",
+        "naval": "true",
 	"speed": 0.5,
 	"outlineColor": "41445500",
 	"hitSize": 10,
