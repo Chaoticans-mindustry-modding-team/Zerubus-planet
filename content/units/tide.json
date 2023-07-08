@@ -1,5 +1,5 @@
 {
-      
+        "type": "Naval",
 	"speed": 0.5,
 	"outlineColor": "41445500",
 	"hitSize": 10,
@@ -52,7 +52,7 @@
   "name": "tide-cannon-l",
 "mirror": true,
     "top": false,
-    "rotate": false,
+    "rotate": true,
     "alternate": false,
     "x": -4.8,
     "y": 0.3,
