@@ -1,0 +1,110 @@
+{
+      
+	"speed": 0.5,
+	"outlineColor": "41445500",
+	"hitSize": 10,
+	"legs": true,
+	"name": "Tide",
+	"health": 600,
+	"canDrown": "true",
+        "mineSpeed": 0,
+	"canBuild": false,
+        "buildSpeed": 0,
+        "mineTier": 0,
+        "itemCapacity": 50,
+	"armor": 3,
+        "canBoost": false,
+        "hovering": false,
+        "shadowElevation": 0.1,
+        "useEngineElevation": false,
+	"faceTarget": false,
+	"targetAir": true,
+        "engineSize": 0,
+        "engineOffset": 0,
+        "trailColor": "66B1FFFF",
+        "trailLength": 6,
+        "engineColor": "66B1FFFF",
+	"rotateSpeed": 20,
+    "parts": [
+    
+    
+    
+         
+         
+         
+          
+          
+         
+          
+          
+          
+         
+    
+   
+        ],
+	"immunities": [
+        "freezing",
+	
+	
+	],
+	"weapons": [
+	    {
+  "name": "tide-cannon-l",
+"mirror": true,
+    "top": false,
+    "rotate": false,
+    "alternate": false,
+    "x": -4.8,
+    "y": 0.3,
+   "rotateSpeed": 3,
+    "shootY": 0,
+    "reload": 40,
+    "shootSound": "shoot"
+    
+   
+    "bullet": {
+    "type": "MissileBulletType",
+    "length": 3,
+    "width": 6,
+    "speed": 5,
+    "damage": 60,
+    "lightColor": "9900bbFF",
+    "lightningColor": "bb00ddFF",
+    "status": "quaked",
+    "statusDuration": 100,
+   "buildingDamageMultiplier": 2,
+    "hitEffect": {
+    "type": "ParticleEffect",
+    "line": true,
+    "particles": 20,
+    "lifetime": 5,
+    "offset": 50,
+    "length": 50,
+    "cone": -360,
+    "lenFrom": 5,
+    "lenTo": 0,
+    "colorFrom": "000099FF",
+    "colorTo": "000055FF"
+    },
+    "colors": ["660088AA", "660088FF", "FF88FF"],
+    "sideAngle": 90,
+    "sideLength": 1,
+    "sideWidth": 1
+	}
+	}
+      
+    ],
+    "abilities": [
+    {
+     "type": "mindustry.entities.abilities.StatusFieldAbility",
+      "effect": "none",
+      "parentizeEffects": true,
+      "effectY": 13,
+      "activeEffect": "none",
+      "range" : 70,
+      "reload" : 5,
+      "duration" : 5
+            },
+    
+        ]
+}
