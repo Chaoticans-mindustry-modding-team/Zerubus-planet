@@ -4,6 +4,7 @@
 	"hitSize": 10,
 	"legs": false,
 	"type": "naval",
+	"naval": true,
 	"name": "Tide",
 	"health": 600,
 	"canDrown": "false",
