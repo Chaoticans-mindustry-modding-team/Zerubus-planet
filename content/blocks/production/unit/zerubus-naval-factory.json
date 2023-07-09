@@ -1,0 +1,47 @@
+{
+  "type": "UnitFactory",
+  "researchCostMultiplier": 0.1,
+  "size": 3,
+  "name": "Naval Fabricator",
+  "consumes": {
+    "power": 5
+  },
+  "plans": [
+    {
+      "unit": "tide",
+      "requirements": [
+        {
+          "item": "silver",
+          "amount": 50
+        },
+        {
+          "item": "silicon",
+          "amount": 25
+        },
+        {
+          "item": "silicate",
+          "amount": 30
+        }
+      ],
+      "time": 1600
+    }
+  ],
+  "requirements": [
+    {
+      "item": "silicon",
+      "amount": 500
+    },
+    {
+      "item": "silver",
+      "amount": 300
+    },
+    {
+      "item": "indium",
+      "amount": 210
+    }
+  ],
+  "category": "units",
+  "research": {
+  "parent": "zerubus-air-factory",
+  }
+}
