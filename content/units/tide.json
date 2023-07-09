@@ -71,7 +71,7 @@
     "damage": 60,
     "lightColor": "9900bbFF",
     "lightningColor": "bb00ddFF",
-    "status": "quaked",
+    "status": "none",
     "statusDuration": 100,
    "buildingDamageMultiplier": 2,
     "hitEffect": {
