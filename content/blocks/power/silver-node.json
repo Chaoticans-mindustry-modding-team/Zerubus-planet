@@ -3,7 +3,7 @@
     "name": "Silver Node",
     "health": 200,
     "size": 2,
-    "range": 10,
+    "range": 17,
     "requirements": [
      "silver/10"
     ],
