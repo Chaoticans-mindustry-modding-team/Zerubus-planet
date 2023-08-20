@@ -1,0 +1,15 @@
+{    
+    "type": "BeamNode",
+    "name": "Indium Node",
+    "health": 200,
+    "size": 2,
+    "range": 10,
+    "requirements": [
+     "indium/10",
+     "silver/5"
+    ],
+    "category": "defense",
+    "research": {
+    "parent": "silver-wall",
+    }
+}
