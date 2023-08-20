@@ -1,14 +1,19 @@
 {    
-    "type": "ThermalGenerator",
-    "name": "Silver Turbine",
+    "type": "ConsumeGenerator",
+    "name": "Coal Turbine",
     "health": 400,
     "attribute": "Attribute.steam",
-    "size": 3,
-    "powerProduction": 11,
+    "size": 2,
+    "powerProduction": 1,
     "requirements": [
      "silver/40",
      "indium/10"
     ],
+    "consumes": {
+     "items": [
+       "coal/1"
+     ]
+    },
     "category": "power",
     "research": {
     "parent": "silver-drill",
