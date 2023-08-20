@@ -1,0 +1,15 @@
+{    
+    "type": "ThermalGenerator",
+    "name": "Silver Turbine",
+    "health": 400,
+    "attribute": "Attribute.steam",
+    "size": 3,
+    "requirements": [
+     "silver/40",
+     "indium/10"
+    ],
+    "category": "power",
+    "research": {
+    "parent": "silver-drill",
+    }
+}
