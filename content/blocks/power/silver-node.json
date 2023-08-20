@@ -1,0 +1,13 @@
+{    
+    "type": "PowerNode",
+    "name": "Silver Node",
+    "health": 200,
+    "size": 2,
+    "requirements": [
+     "silver/10"
+    ],
+    "category": "power",
+    "research": {
+    "parent": "silver-drill",
+    }
+}
