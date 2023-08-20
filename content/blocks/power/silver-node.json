@@ -10,6 +10,6 @@
     ],
     "category": "power",
     "research": {
-    "parent": "silver-drill",
+    "parent": "silver-turbine",
     }
 }
