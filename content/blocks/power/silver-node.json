@@ -3,7 +3,7 @@
     "name": "Silver Node",
     "health": 200,
     "size": 2,
-    "laserRange": 10,
+    "laserRange": 8,
     "maxNodes": 15,
     "requirements": [
      "silver/10"
