@@ -4,6 +4,7 @@
     "health": 400,
     "attribute": "Attribute.steam",
     "size": 3,
+    "powerProduction": 640,
     "requirements": [
      "silver/40",
      "indium/10"
