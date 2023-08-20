@@ -2,7 +2,7 @@
     "type": "BeamNode",
     "name": "Indium Node",
     "health": 200,
-    "size": 2,
+    "size": 3,
     "range": 10,
     "requirements": [
      "indium/10",
