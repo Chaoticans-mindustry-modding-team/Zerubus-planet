@@ -1,0 +1,17 @@
+{    
+    "type": "battery",
+    "name": "Silver Battery",
+    "health": 400,
+    "size": 2,
+    "requirements": [
+     "silver/20",
+     "indium/5"
+    ],
+  "consumes": {
+   "powerBuffered": 2500,
+  }
+    "category": "power",
+    "research": {
+    "parent": "silver-drill",
+    }
+}
