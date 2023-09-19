@@ -8,7 +8,7 @@
   },
   "plans": [
     {
-      "unit": "tide",
+      "unit": "zze-tide",
       "requirements": [
         {
           "item": "silver",
