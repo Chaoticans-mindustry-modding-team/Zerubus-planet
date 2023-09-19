@@ -8,7 +8,7 @@
   },
   "plans": [
     {
-      "unit": "gale",
+      "unit": "zzc-gale",
       "requirements": [
         {
           "item": "silver",
