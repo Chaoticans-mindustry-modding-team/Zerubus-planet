@@ -1,6 +1,6 @@
 {
 "type": "DuctRouter",
-"name": "Silver router",
+"name": "Silver Router",
 "alwaysUnlocked": false,
 "loadEffect": {
 "type": "ParticleEffect",
