@@ -1,6 +1,6 @@
 {
 "type": "Junction",
-"name": "Silver duct",
+"name": "Silver Junction",
 "loadEffect": {
 "type": "ParticleEffect",
 "line": true,
