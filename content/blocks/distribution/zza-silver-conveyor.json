@@ -1,6 +1,6 @@
 {
 "type": "StackConveyor",
-"name": "Silver duct",
+"name": "Silver Duct",
 "alwaysUnlocked": true,
 "loadEffect": {
 "type": "ParticleEffect",
