@@ -10,6 +10,6 @@
     ],
     "category": "power",
     "research": {
-    "parent": "silver-node",
+    "parent": "zza-silver-node",
     }
 }
