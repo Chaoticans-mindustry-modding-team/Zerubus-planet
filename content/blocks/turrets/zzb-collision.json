@@ -99,6 +99,6 @@
 	],
 	"category": "turret",
 	"research": {
-        "parent": "scale",
+        "parent": "zza-scale",
 	}
     }
