@@ -1,6 +1,7 @@
 {
   "description": "Your being shaken around.",
   "localizedName": "Quaked",
+  "color": "683400ff",
   "speedMultiplier": 0.7,
   "show": true,
  
