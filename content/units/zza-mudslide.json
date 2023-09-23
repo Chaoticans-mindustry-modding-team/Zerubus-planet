@@ -4,6 +4,7 @@
 	"outlineColor": "41445500",
 	"hitSize": 10,
 	"legs": true,
+	"alwaysUnlocked": true,
 	"name": "Mudslide",
 	"health": 700,
 	"canDrown": "true",
@@ -106,8 +107,5 @@
       "reload" : 5,
       "duration" : 5
             },
-"research": {
- "parent": "zza-zerubus-ground-factory",
-},
         ]
 }
