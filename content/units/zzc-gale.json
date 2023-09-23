@@ -3,6 +3,7 @@
 	"speed": 4,
 	"outlineColor": "41445500",
 	"hitSize": 18,
+	"alwaysUnlocked": true,
 	"name": "Gale",
 	"health": 300,
 	"canDrown": "false",
