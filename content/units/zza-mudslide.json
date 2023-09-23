@@ -106,6 +106,8 @@
       "reload" : 5,
       "duration" : 5
             },
-    
+"research": {
+ "parent": "zza-zerubus-ground-factory",
+}
         ]
 }
