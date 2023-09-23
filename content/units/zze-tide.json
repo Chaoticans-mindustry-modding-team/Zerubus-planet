@@ -108,4 +108,7 @@
             },
     
         ]
+	"research": {
+ "parent": "zza-zerubus-naval-factory",
+}
 }
