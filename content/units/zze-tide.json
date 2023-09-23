@@ -5,6 +5,7 @@
 	"legs": false,
 	"type": "naval",
 	"naval": true,
+	"alwaysUnlocked": true,
 	"name": "Tide",
 	"health": 600,
 	"canDrown": "false",
