@@ -28,7 +28,7 @@
 	],
 	"category": "production",
 	"research": {
-        "parent": "silver-drill",
+        "parent": "zza-silver-drill",
         "allwaysUnlocked": false,
 	}
 }
