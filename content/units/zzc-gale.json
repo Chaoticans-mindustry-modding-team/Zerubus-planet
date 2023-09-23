@@ -85,5 +85,8 @@
             
             
     ]
+	"research": {
+ "parent": "zza-zerubus-air-factory",
+}
 "description": "a flying unit that fires a single electrically charged bullet",
 }
