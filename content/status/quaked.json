@@ -1,4 +1,5 @@
 {
+  "type": "StatusEffect",
   "description": "Your being shaken around.",
   "localizedName": "Quaked",
   "color": "683400ff",
