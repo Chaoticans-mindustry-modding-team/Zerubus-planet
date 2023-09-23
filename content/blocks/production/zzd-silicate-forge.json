@@ -39,7 +39,7 @@
   ],
   "category": "crafting",
   "research": {
-    "parent": "silver-drill"
+    "parent": "zza-silver-drill"
   }
   "outputItem": "silicon/5",
   "outputLiquid": "oxygen/0.2",
