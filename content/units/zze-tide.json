@@ -51,7 +51,7 @@
 	],
 	"weapons": [
 	    {
-  "name": "tide-cannon-l",
+  "name": "tide-cannon",
 "mirror": true,
     "top": false,
     "rotate": true,
