@@ -57,7 +57,7 @@
     "rotate": true,
     "alternate": false,
     "x": -4,
-    "y": -3,
+    "y": -3.2,
    "rotateSpeed": 3,
     "shootY": 0,
     "reload": 40,
