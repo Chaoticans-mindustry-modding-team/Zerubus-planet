@@ -55,7 +55,7 @@
 "mirror": true,
     "top": false,
     "rotate": true,
-    "alternate": false,
+    "alternate": true,
     "x": -4,
     "y": -3.2,
    "rotateSpeed": 3,
